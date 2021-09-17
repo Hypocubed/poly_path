@@ -51,21 +51,6 @@ pub fn generate_possibility(perm: i32, n: i32) -> Vec<i32> {
     result
 }
 
-pub fn validate_possibility(path: &Vec<i32>) -> bool {
-    let mut visited: HashSet<i32> = HashSet::new();
-    let mut current: i32 = 0;
-    let n: i32 = path.len() as i32;
-
-    for x in path.iter() {
-        current = (current + x) % n;
-        if !visited.insert(current) {
-            return false;
-        }
-    }
-
-    current == 0
-}
-
 pub fn is_reversal(path: &Vec<i32>) -> bool {
     let below: i32 = path.len() as i32 / 2;
     let above: i32 = (path.len() as i32 / 2) + (path.len() as i32 % 2);

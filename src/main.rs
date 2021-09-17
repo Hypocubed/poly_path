@@ -6,19 +6,6 @@ use std::io::prelude::*;
 use std::path::Path;
 
 fn main() {
-    /*let goal = vec![3, 3, 3, 3, 3, 3, 3, 3];
-    let path = paths::generate_possibility(24, 8);
-
-    let perms: i32 = (1..8).product();
-
-    for perm in 0..perms {
-        if goal == paths::generate_possibility(perm, 8) {
-            println!("{}", perm);
-        }
-    }
-
-    println!("{:?}", perms);*/
-
     let mut paths: Vec<Vec<i32>> = paths::find_paths(7);
     paths.sort();
 
