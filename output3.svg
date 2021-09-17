@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect fill="#999" stroke="#000" x="0" y="0" width="200" height="200"/><rect fill="#fff" stroke="#000" x="0" y="0" width="200" height="200"/><polyline points="100,50 143,125 57,125 100,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="50" r="5" fill="red" />
+<circle cx="143" cy="125" r="5" fill="red" />
+<circle cx="57" cy="125" r="5" fill="red" />
+<circle cx="100" cy="50" r="3" fill="white" />
+</svg>

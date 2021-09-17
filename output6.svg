@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect fill="#999" stroke="#000" x="0" y="0" width="800" height="800"/><rect fill="#fff" stroke="#000" x="0" y="0" width="200" height="200"/><polyline points="100,50 143,75 143,125 100,150 57,125 57,75 100,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="50" r="5" fill="red" />
+<circle cx="143" cy="75" r="5" fill="red" />
+<circle cx="143" cy="125" r="5" fill="red" />
+<circle cx="100" cy="150" r="5" fill="red" />
+<circle cx="57" cy="125" r="5" fill="red" />
+<circle cx="57" cy="75" r="5" fill="red" />
+<circle cx="100" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="0" width="200" height="200"/><polyline points="300,50 343,75 343,125 300,150 257,75 257,125 300,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="50" r="5" fill="red" />
+<circle cx="343" cy="75" r="5" fill="red" />
+<circle cx="343" cy="125" r="5" fill="red" />
+<circle cx="300" cy="150" r="5" fill="red" />
+<circle cx="257" cy="125" r="5" fill="red" />
+<circle cx="257" cy="75" r="5" fill="red" />
+<circle cx="300" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="0" width="200" height="200"/><polyline points="500,50 543,75 543,125 457,125 457,75 500,150 500,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="50" r="5" fill="red" />
+<circle cx="543" cy="75" r="5" fill="red" />
+<circle cx="543" cy="125" r="5" fill="red" />
+<circle cx="500" cy="150" r="5" fill="red" />
+<circle cx="457" cy="125" r="5" fill="red" />
+<circle cx="457" cy="75" r="5" fill="red" />
+<circle cx="500" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="0" width="200" height="200"/><polyline points="700,50 743,75 743,125 657,75 657,125 700,150 700,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="50" r="5" fill="red" />
+<circle cx="743" cy="75" r="5" fill="red" />
+<circle cx="743" cy="125" r="5" fill="red" />
+<circle cx="700" cy="150" r="5" fill="red" />
+<circle cx="657" cy="125" r="5" fill="red" />
+<circle cx="657" cy="75" r="5" fill="red" />
+<circle cx="700" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="200" width="200" height="200"/><polyline points="100,250 143,275 100,350 57,275 143,325 57,325 100,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="250" r="5" fill="red" />
+<circle cx="143" cy="275" r="5" fill="red" />
+<circle cx="143" cy="325" r="5" fill="red" />
+<circle cx="100" cy="350" r="5" fill="red" />
+<circle cx="57" cy="325" r="5" fill="red" />
+<circle cx="57" cy="275" r="5" fill="red" />
+<circle cx="100" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="200" width="200" height="200"/><polyline points="300,250 343,275 300,350 257,275 257,325 343,325 300,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="250" r="5" fill="red" />
+<circle cx="343" cy="275" r="5" fill="red" />
+<circle cx="343" cy="325" r="5" fill="red" />
+<circle cx="300" cy="350" r="5" fill="red" />
+<circle cx="257" cy="325" r="5" fill="red" />
+<circle cx="257" cy="275" r="5" fill="red" />
+<circle cx="300" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="200" width="200" height="200"/><polyline points="500,250 543,275 500,350 543,325 457,275 457,325 500,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="250" r="5" fill="red" />
+<circle cx="543" cy="275" r="5" fill="red" />
+<circle cx="543" cy="325" r="5" fill="red" />
+<circle cx="500" cy="350" r="5" fill="red" />
+<circle cx="457" cy="325" r="5" fill="red" />
+<circle cx="457" cy="275" r="5" fill="red" />
+<circle cx="500" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="200" width="200" height="200"/><polyline points="700,250 743,275 657,325 657,275 743,325 700,350 700,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="250" r="5" fill="red" />
+<circle cx="743" cy="275" r="5" fill="red" />
+<circle cx="743" cy="325" r="5" fill="red" />
+<circle cx="700" cy="350" r="5" fill="red" />
+<circle cx="657" cy="325" r="5" fill="red" />
+<circle cx="657" cy="275" r="5" fill="red" />
+<circle cx="700" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="400" width="200" height="200"/><polyline points="100,450 143,475 57,525 143,525 57,475 100,550 100,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="450" r="5" fill="red" />
+<circle cx="143" cy="475" r="5" fill="red" />
+<circle cx="143" cy="525" r="5" fill="red" />
+<circle cx="100" cy="550" r="5" fill="red" />
+<circle cx="57" cy="525" r="5" fill="red" />
+<circle cx="57" cy="475" r="5" fill="red" />
+<circle cx="100" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="400" width="200" height="200"/><polyline points="300,450 343,475 257,525 300,550 257,475 343,525 300,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="450" r="5" fill="red" />
+<circle cx="343" cy="475" r="5" fill="red" />
+<circle cx="343" cy="525" r="5" fill="red" />
+<circle cx="300" cy="550" r="5" fill="red" />
+<circle cx="257" cy="525" r="5" fill="red" />
+<circle cx="257" cy="475" r="5" fill="red" />
+<circle cx="300" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="400" width="200" height="200"/><polyline points="500,450 543,475 457,475 500,550 457,525 543,525 500,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="450" r="5" fill="red" />
+<circle cx="543" cy="475" r="5" fill="red" />
+<circle cx="543" cy="525" r="5" fill="red" />
+<circle cx="500" cy="550" r="5" fill="red" />
+<circle cx="457" cy="525" r="5" fill="red" />
+<circle cx="457" cy="475" r="5" fill="red" />
+<circle cx="500" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="400" width="200" height="200"/><polyline points="700,450 743,525 657,525 743,475 657,475 700,550 700,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="450" r="5" fill="red" />
+<circle cx="743" cy="475" r="5" fill="red" />
+<circle cx="743" cy="525" r="5" fill="red" />
+<circle cx="700" cy="550" r="5" fill="red" />
+<circle cx="657" cy="525" r="5" fill="red" />
+<circle cx="657" cy="475" r="5" fill="red" />
+<circle cx="700" cy="450" r="3" fill="white" />
+</svg>

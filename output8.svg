@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="3000" height="3000" viewBox="0 0 3000 3000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect fill="#999" stroke="#000" x="0" y="0" width="3000" height="3000"/><rect fill="#fff" stroke="#000" x="0" y="0" width="200" height="200"/><polyline points="100,50 135,65 150,100 135,135 100,150 65,135 50,100 65,65 100,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="50" r="5" fill="red" />
+<circle cx="135" cy="65" r="5" fill="red" />
+<circle cx="150" cy="100" r="5" fill="red" />
+<circle cx="135" cy="135" r="5" fill="red" />
+<circle cx="100" cy="150" r="5" fill="red" />
+<circle cx="65" cy="135" r="5" fill="red" />
+<circle cx="50" cy="100" r="5" fill="red" />
+<circle cx="65" cy="65" r="5" fill="red" />
+<circle cx="100" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="0" width="200" height="200"/><polyline points="300,50 335,65 350,100 335,135 300,150 265,135 265,65 250,100 300,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="50" r="5" fill="red" />
+<circle cx="335" cy="65" r="5" fill="red" />
+<circle cx="350" cy="100" r="5" fill="red" />
+<circle cx="335" cy="135" r="5" fill="red" />
+<circle cx="300" cy="150" r="5" fill="red" />
+<circle cx="265" cy="135" r="5" fill="red" />
+<circle cx="250" cy="100" r="5" fill="red" />
+<circle cx="265" cy="65" r="5" fill="red" />
+<circle cx="300" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="0" width="200" height="200"/><polyline points="500,50 535,65 550,100 535,135 500,150 450,100 465,65 465,135 500,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="50" r="5" fill="red" />
+<circle cx="535" cy="65" r="5" fill="red" />
+<circle cx="550" cy="100" r="5" fill="red" />
+<circle cx="535" cy="135" r="5" fill="red" />
+<circle cx="500" cy="150" r="5" fill="red" />
+<circle cx="465" cy="135" r="5" fill="red" />
+<circle cx="450" cy="100" r="5" fill="red" />
+<circle cx="465" cy="65" r="5" fill="red" />
+<circle cx="500" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="0" width="200" height="200"/><polyline points="700,50 735,65 750,100 735,135 700,150 665,65 650,100 665,135 700,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="50" r="5" fill="red" />
+<circle cx="735" cy="65" r="5" fill="red" />
+<circle cx="750" cy="100" r="5" fill="red" />
+<circle cx="735" cy="135" r="5" fill="red" />
+<circle cx="700" cy="150" r="5" fill="red" />
+<circle cx="665" cy="135" r="5" fill="red" />
+<circle cx="650" cy="100" r="5" fill="red" />
+<circle cx="665" cy="65" r="5" fill="red" />
+<circle cx="700" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="0" width="200" height="200"/><polyline points="900,50 935,65 950,100 935,135 865,135 850,100 865,65 900,150 900,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="50" r="5" fill="red" />
+<circle cx="935" cy="65" r="5" fill="red" />
+<circle cx="950" cy="100" r="5" fill="red" />
+<circle cx="935" cy="135" r="5" fill="red" />
+<circle cx="900" cy="150" r="5" fill="red" />
+<circle cx="865" cy="135" r="5" fill="red" />
+<circle cx="850" cy="100" r="5" fill="red" />
+<circle cx="865" cy="65" r="5" fill="red" />
+<circle cx="900" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="0" width="200" height="200"/><polyline points="1100,50 1135,65 1150,100 1135,135 1065,135 1065,65 1100,150 1050,100 1100,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="50" r="5" fill="red" />
+<circle cx="1135" cy="65" r="5" fill="red" />
+<circle cx="1150" cy="100" r="5" fill="red" />
+<circle cx="1135" cy="135" r="5" fill="red" />
+<circle cx="1100" cy="150" r="5" fill="red" />
+<circle cx="1065" cy="135" r="5" fill="red" />
+<circle cx="1050" cy="100" r="5" fill="red" />
+<circle cx="1065" cy="65" r="5" fill="red" />
+<circle cx="1100" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="0" width="200" height="200"/><polyline points="1300,50 1335,65 1350,100 1335,135 1265,135 1265,65 1250,100 1300,150 1300,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="50" r="5" fill="red" />
+<circle cx="1335" cy="65" r="5" fill="red" />
+<circle cx="1350" cy="100" r="5" fill="red" />
+<circle cx="1335" cy="135" r="5" fill="red" />
+<circle cx="1300" cy="150" r="5" fill="red" />
+<circle cx="1265" cy="135" r="5" fill="red" />
+<circle cx="1250" cy="100" r="5" fill="red" />
+<circle cx="1265" cy="65" r="5" fill="red" />
+<circle cx="1300" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="0" width="200" height="200"/><polyline points="1500,50 1535,65 1550,100 1535,135 1465,135 1500,150 1465,65 1450,100 1500,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="50" r="5" fill="red" />
+<circle cx="1535" cy="65" r="5" fill="red" />
+<circle cx="1550" cy="100" r="5" fill="red" />
+<circle cx="1535" cy="135" r="5" fill="red" />
+<circle cx="1500" cy="150" r="5" fill="red" />
+<circle cx="1465" cy="135" r="5" fill="red" />
+<circle cx="1450" cy="100" r="5" fill="red" />
+<circle cx="1465" cy="65" r="5" fill="red" />
+<circle cx="1500" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="0" width="200" height="200"/><polyline points="1700,50 1735,65 1750,100 1735,135 1650,100 1665,65 1700,150 1665,135 1700,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="50" r="5" fill="red" />
+<circle cx="1735" cy="65" r="5" fill="red" />
+<circle cx="1750" cy="100" r="5" fill="red" />
+<circle cx="1735" cy="135" r="5" fill="red" />
+<circle cx="1700" cy="150" r="5" fill="red" />
+<circle cx="1665" cy="135" r="5" fill="red" />
+<circle cx="1650" cy="100" r="5" fill="red" />
+<circle cx="1665" cy="65" r="5" fill="red" />
+<circle cx="1700" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="0" width="200" height="200"/><polyline points="1900,50 1935,65 1950,100 1935,135 1850,100 1865,65 1865,135 1900,150 1900,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="50" r="5" fill="red" />
+<circle cx="1935" cy="65" r="5" fill="red" />
+<circle cx="1950" cy="100" r="5" fill="red" />
+<circle cx="1935" cy="135" r="5" fill="red" />
+<circle cx="1900" cy="150" r="5" fill="red" />
+<circle cx="1865" cy="135" r="5" fill="red" />
+<circle cx="1850" cy="100" r="5" fill="red" />
+<circle cx="1865" cy="65" r="5" fill="red" />
+<circle cx="1900" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="0" width="200" height="200"/><polyline points="2100,50 2135,65 2150,100 2135,135 2050,100 2100,150 2065,65 2065,135 2100,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="50" r="5" fill="red" />
+<circle cx="2135" cy="65" r="5" fill="red" />
+<circle cx="2150" cy="100" r="5" fill="red" />
+<circle cx="2135" cy="135" r="5" fill="red" />
+<circle cx="2100" cy="150" r="5" fill="red" />
+<circle cx="2065" cy="135" r="5" fill="red" />
+<circle cx="2050" cy="100" r="5" fill="red" />
+<circle cx="2065" cy="65" r="5" fill="red" />
+<circle cx="2100" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="0" width="200" height="200"/><polyline points="2300,50 2335,65 2350,100 2335,135 2250,100 2265,135 2265,65 2300,150 2300,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="50" r="5" fill="red" />
+<circle cx="2335" cy="65" r="5" fill="red" />
+<circle cx="2350" cy="100" r="5" fill="red" />
+<circle cx="2335" cy="135" r="5" fill="red" />
+<circle cx="2300" cy="150" r="5" fill="red" />
+<circle cx="2265" cy="135" r="5" fill="red" />
+<circle cx="2250" cy="100" r="5" fill="red" />
+<circle cx="2265" cy="65" r="5" fill="red" />
+<circle cx="2300" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="0" width="200" height="200"/><polyline points="2500,50 2535,65 2550,100 2535,135 2465,65 2465,135 2450,100 2500,150 2500,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="50" r="5" fill="red" />
+<circle cx="2535" cy="65" r="5" fill="red" />
+<circle cx="2550" cy="100" r="5" fill="red" />
+<circle cx="2535" cy="135" r="5" fill="red" />
+<circle cx="2500" cy="150" r="5" fill="red" />
+<circle cx="2465" cy="135" r="5" fill="red" />
+<circle cx="2450" cy="100" r="5" fill="red" />
+<circle cx="2465" cy="65" r="5" fill="red" />
+<circle cx="2500" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="0" width="200" height="200"/><polyline points="2700,50 2735,65 2750,100 2735,135 2665,65 2650,100 2665,135 2700,150 2700,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="50" r="5" fill="red" />
+<circle cx="2735" cy="65" r="5" fill="red" />
+<circle cx="2750" cy="100" r="5" fill="red" />
+<circle cx="2735" cy="135" r="5" fill="red" />
+<circle cx="2700" cy="150" r="5" fill="red" />
+<circle cx="2665" cy="135" r="5" fill="red" />
+<circle cx="2650" cy="100" r="5" fill="red" />
+<circle cx="2665" cy="65" r="5" fill="red" />
+<circle cx="2700" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="0" width="200" height="200"/><polyline points="2900,50 2935,65 2950,100 2900,150 2865,135 2865,65 2935,135 2850,100 2900,50" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="50" r="5" fill="red" />
+<circle cx="2935" cy="65" r="5" fill="red" />
+<circle cx="2950" cy="100" r="5" fill="red" />
+<circle cx="2935" cy="135" r="5" fill="red" />
+<circle cx="2900" cy="150" r="5" fill="red" />
+<circle cx="2865" cy="135" r="5" fill="red" />
+<circle cx="2850" cy="100" r="5" fill="red" />
+<circle cx="2865" cy="65" r="5" fill="red" />
+<circle cx="2900" cy="50" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="200" width="200" height="200"/><polyline points="100,250 135,265 150,300 100,350 65,335 65,265 50,300 135,335 100,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="250" r="5" fill="red" />
+<circle cx="135" cy="265" r="5" fill="red" />
+<circle cx="150" cy="300" r="5" fill="red" />
+<circle cx="135" cy="335" r="5" fill="red" />
+<circle cx="100" cy="350" r="5" fill="red" />
+<circle cx="65" cy="335" r="5" fill="red" />
+<circle cx="50" cy="300" r="5" fill="red" />
+<circle cx="65" cy="265" r="5" fill="red" />
+<circle cx="100" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="200" width="200" height="200"/><polyline points="300,250 335,265 350,300 300,350 265,335 335,335 265,265 250,300 300,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="250" r="5" fill="red" />
+<circle cx="335" cy="265" r="5" fill="red" />
+<circle cx="350" cy="300" r="5" fill="red" />
+<circle cx="335" cy="335" r="5" fill="red" />
+<circle cx="300" cy="350" r="5" fill="red" />
+<circle cx="265" cy="335" r="5" fill="red" />
+<circle cx="250" cy="300" r="5" fill="red" />
+<circle cx="265" cy="265" r="5" fill="red" />
+<circle cx="300" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="200" width="200" height="200"/><polyline points="500,250 535,265 550,300 500,350 450,300 465,265 535,335 465,335 500,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="250" r="5" fill="red" />
+<circle cx="535" cy="265" r="5" fill="red" />
+<circle cx="550" cy="300" r="5" fill="red" />
+<circle cx="535" cy="335" r="5" fill="red" />
+<circle cx="500" cy="350" r="5" fill="red" />
+<circle cx="465" cy="335" r="5" fill="red" />
+<circle cx="450" cy="300" r="5" fill="red" />
+<circle cx="465" cy="265" r="5" fill="red" />
+<circle cx="500" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="200" width="200" height="200"/><polyline points="700,250 735,265 750,300 700,350 650,300 665,265 665,335 735,335 700,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="250" r="5" fill="red" />
+<circle cx="735" cy="265" r="5" fill="red" />
+<circle cx="750" cy="300" r="5" fill="red" />
+<circle cx="735" cy="335" r="5" fill="red" />
+<circle cx="700" cy="350" r="5" fill="red" />
+<circle cx="665" cy="335" r="5" fill="red" />
+<circle cx="650" cy="300" r="5" fill="red" />
+<circle cx="665" cy="265" r="5" fill="red" />
+<circle cx="700" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="200" width="200" height="200"/><polyline points="900,250 935,265 950,300 900,350 850,300 935,335 865,265 865,335 900,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="250" r="5" fill="red" />
+<circle cx="935" cy="265" r="5" fill="red" />
+<circle cx="950" cy="300" r="5" fill="red" />
+<circle cx="935" cy="335" r="5" fill="red" />
+<circle cx="900" cy="350" r="5" fill="red" />
+<circle cx="865" cy="335" r="5" fill="red" />
+<circle cx="850" cy="300" r="5" fill="red" />
+<circle cx="865" cy="265" r="5" fill="red" />
+<circle cx="900" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="200" width="200" height="200"/><polyline points="1100,250 1135,265 1150,300 1100,350 1050,300 1065,335 1065,265 1135,335 1100,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="250" r="5" fill="red" />
+<circle cx="1135" cy="265" r="5" fill="red" />
+<circle cx="1150" cy="300" r="5" fill="red" />
+<circle cx="1135" cy="335" r="5" fill="red" />
+<circle cx="1100" cy="350" r="5" fill="red" />
+<circle cx="1065" cy="335" r="5" fill="red" />
+<circle cx="1050" cy="300" r="5" fill="red" />
+<circle cx="1065" cy="265" r="5" fill="red" />
+<circle cx="1100" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="200" width="200" height="200"/><polyline points="1300,250 1335,265 1350,300 1300,350 1265,265 1335,335 1250,300 1265,335 1300,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="250" r="5" fill="red" />
+<circle cx="1335" cy="265" r="5" fill="red" />
+<circle cx="1350" cy="300" r="5" fill="red" />
+<circle cx="1335" cy="335" r="5" fill="red" />
+<circle cx="1300" cy="350" r="5" fill="red" />
+<circle cx="1265" cy="335" r="5" fill="red" />
+<circle cx="1250" cy="300" r="5" fill="red" />
+<circle cx="1265" cy="265" r="5" fill="red" />
+<circle cx="1300" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="200" width="200" height="200"/><polyline points="1500,250 1535,265 1550,300 1500,350 1465,265 1465,335 1450,300 1535,335 1500,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="250" r="5" fill="red" />
+<circle cx="1535" cy="265" r="5" fill="red" />
+<circle cx="1550" cy="300" r="5" fill="red" />
+<circle cx="1535" cy="335" r="5" fill="red" />
+<circle cx="1500" cy="350" r="5" fill="red" />
+<circle cx="1465" cy="335" r="5" fill="red" />
+<circle cx="1450" cy="300" r="5" fill="red" />
+<circle cx="1465" cy="265" r="5" fill="red" />
+<circle cx="1500" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="200" width="200" height="200"/><polyline points="1700,250 1735,265 1750,300 1700,350 1665,265 1665,335 1735,335 1650,300 1700,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="250" r="5" fill="red" />
+<circle cx="1735" cy="265" r="5" fill="red" />
+<circle cx="1750" cy="300" r="5" fill="red" />
+<circle cx="1735" cy="335" r="5" fill="red" />
+<circle cx="1700" cy="350" r="5" fill="red" />
+<circle cx="1665" cy="335" r="5" fill="red" />
+<circle cx="1650" cy="300" r="5" fill="red" />
+<circle cx="1665" cy="265" r="5" fill="red" />
+<circle cx="1700" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="200" width="200" height="200"/><polyline points="1900,250 1935,265 1950,300 1900,350 1865,265 1850,300 1935,335 1865,335 1900,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="250" r="5" fill="red" />
+<circle cx="1935" cy="265" r="5" fill="red" />
+<circle cx="1950" cy="300" r="5" fill="red" />
+<circle cx="1935" cy="335" r="5" fill="red" />
+<circle cx="1900" cy="350" r="5" fill="red" />
+<circle cx="1865" cy="335" r="5" fill="red" />
+<circle cx="1850" cy="300" r="5" fill="red" />
+<circle cx="1865" cy="265" r="5" fill="red" />
+<circle cx="1900" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="200" width="200" height="200"/><polyline points="2100,250 2135,265 2150,300 2100,350 2065,265 2050,300 2065,335 2135,335 2100,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="250" r="5" fill="red" />
+<circle cx="2135" cy="265" r="5" fill="red" />
+<circle cx="2150" cy="300" r="5" fill="red" />
+<circle cx="2135" cy="335" r="5" fill="red" />
+<circle cx="2100" cy="350" r="5" fill="red" />
+<circle cx="2065" cy="335" r="5" fill="red" />
+<circle cx="2050" cy="300" r="5" fill="red" />
+<circle cx="2065" cy="265" r="5" fill="red" />
+<circle cx="2100" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="200" width="200" height="200"/><polyline points="2300,250 2335,265 2350,300 2300,350 2335,335 2265,335 2265,265 2250,300 2300,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="250" r="5" fill="red" />
+<circle cx="2335" cy="265" r="5" fill="red" />
+<circle cx="2350" cy="300" r="5" fill="red" />
+<circle cx="2335" cy="335" r="5" fill="red" />
+<circle cx="2300" cy="350" r="5" fill="red" />
+<circle cx="2265" cy="335" r="5" fill="red" />
+<circle cx="2250" cy="300" r="5" fill="red" />
+<circle cx="2265" cy="265" r="5" fill="red" />
+<circle cx="2300" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="200" width="200" height="200"/><polyline points="2500,250 2535,265 2550,300 2500,350 2535,335 2450,300 2465,265 2465,335 2500,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="250" r="5" fill="red" />
+<circle cx="2535" cy="265" r="5" fill="red" />
+<circle cx="2550" cy="300" r="5" fill="red" />
+<circle cx="2535" cy="335" r="5" fill="red" />
+<circle cx="2500" cy="350" r="5" fill="red" />
+<circle cx="2465" cy="335" r="5" fill="red" />
+<circle cx="2450" cy="300" r="5" fill="red" />
+<circle cx="2465" cy="265" r="5" fill="red" />
+<circle cx="2500" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="200" width="200" height="200"/><polyline points="2700,250 2735,265 2750,300 2700,350 2735,335 2665,265 2650,300 2665,335 2700,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="250" r="5" fill="red" />
+<circle cx="2735" cy="265" r="5" fill="red" />
+<circle cx="2750" cy="300" r="5" fill="red" />
+<circle cx="2735" cy="335" r="5" fill="red" />
+<circle cx="2700" cy="350" r="5" fill="red" />
+<circle cx="2665" cy="335" r="5" fill="red" />
+<circle cx="2650" cy="300" r="5" fill="red" />
+<circle cx="2665" cy="265" r="5" fill="red" />
+<circle cx="2700" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="200" width="200" height="200"/><polyline points="2900,250 2935,265 2950,300 2865,335 2850,300 2865,265 2935,335 2900,350 2900,250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="250" r="5" fill="red" />
+<circle cx="2935" cy="265" r="5" fill="red" />
+<circle cx="2950" cy="300" r="5" fill="red" />
+<circle cx="2935" cy="335" r="5" fill="red" />
+<circle cx="2900" cy="350" r="5" fill="red" />
+<circle cx="2865" cy="335" r="5" fill="red" />
+<circle cx="2850" cy="300" r="5" fill="red" />
+<circle cx="2865" cy="265" r="5" fill="red" />
+<circle cx="2900" cy="250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="400" width="200" height="200"/><polyline points="100,450 135,465 150,500 65,535 50,500 65,465 100,550 135,535 100,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="450" r="5" fill="red" />
+<circle cx="135" cy="465" r="5" fill="red" />
+<circle cx="150" cy="500" r="5" fill="red" />
+<circle cx="135" cy="535" r="5" fill="red" />
+<circle cx="100" cy="550" r="5" fill="red" />
+<circle cx="65" cy="535" r="5" fill="red" />
+<circle cx="50" cy="500" r="5" fill="red" />
+<circle cx="65" cy="465" r="5" fill="red" />
+<circle cx="100" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="400" width="200" height="200"/><polyline points="300,450 335,465 350,500 265,535 250,500 335,535 265,465 300,550 300,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="450" r="5" fill="red" />
+<circle cx="335" cy="465" r="5" fill="red" />
+<circle cx="350" cy="500" r="5" fill="red" />
+<circle cx="335" cy="535" r="5" fill="red" />
+<circle cx="300" cy="550" r="5" fill="red" />
+<circle cx="265" cy="535" r="5" fill="red" />
+<circle cx="250" cy="500" r="5" fill="red" />
+<circle cx="265" cy="465" r="5" fill="red" />
+<circle cx="300" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="400" width="200" height="200"/><polyline points="500,450 535,465 550,500 465,535 450,500 500,550 465,465 535,535 500,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="450" r="5" fill="red" />
+<circle cx="535" cy="465" r="5" fill="red" />
+<circle cx="550" cy="500" r="5" fill="red" />
+<circle cx="535" cy="535" r="5" fill="red" />
+<circle cx="500" cy="550" r="5" fill="red" />
+<circle cx="465" cy="535" r="5" fill="red" />
+<circle cx="450" cy="500" r="5" fill="red" />
+<circle cx="465" cy="465" r="5" fill="red" />
+<circle cx="500" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="400" width="200" height="200"/><polyline points="700,450 735,465 750,500 665,535 665,465 735,535 650,500 700,550 700,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="450" r="5" fill="red" />
+<circle cx="735" cy="465" r="5" fill="red" />
+<circle cx="750" cy="500" r="5" fill="red" />
+<circle cx="735" cy="535" r="5" fill="red" />
+<circle cx="700" cy="550" r="5" fill="red" />
+<circle cx="665" cy="535" r="5" fill="red" />
+<circle cx="650" cy="500" r="5" fill="red" />
+<circle cx="665" cy="465" r="5" fill="red" />
+<circle cx="700" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="400" width="200" height="200"/><polyline points="900,450 935,465 950,500 865,535 865,465 900,550 850,500 935,535 900,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="450" r="5" fill="red" />
+<circle cx="935" cy="465" r="5" fill="red" />
+<circle cx="950" cy="500" r="5" fill="red" />
+<circle cx="935" cy="535" r="5" fill="red" />
+<circle cx="900" cy="550" r="5" fill="red" />
+<circle cx="865" cy="535" r="5" fill="red" />
+<circle cx="850" cy="500" r="5" fill="red" />
+<circle cx="865" cy="465" r="5" fill="red" />
+<circle cx="900" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="400" width="200" height="200"/><polyline points="1100,450 1135,465 1150,500 1065,535 1065,465 1050,500 1135,535 1100,550 1100,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="450" r="5" fill="red" />
+<circle cx="1135" cy="465" r="5" fill="red" />
+<circle cx="1150" cy="500" r="5" fill="red" />
+<circle cx="1135" cy="535" r="5" fill="red" />
+<circle cx="1100" cy="550" r="5" fill="red" />
+<circle cx="1065" cy="535" r="5" fill="red" />
+<circle cx="1050" cy="500" r="5" fill="red" />
+<circle cx="1065" cy="465" r="5" fill="red" />
+<circle cx="1100" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="400" width="200" height="200"/><polyline points="1300,450 1335,465 1350,500 1265,535 1265,465 1250,500 1300,550 1335,535 1300,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="450" r="5" fill="red" />
+<circle cx="1335" cy="465" r="5" fill="red" />
+<circle cx="1350" cy="500" r="5" fill="red" />
+<circle cx="1335" cy="535" r="5" fill="red" />
+<circle cx="1300" cy="550" r="5" fill="red" />
+<circle cx="1265" cy="535" r="5" fill="red" />
+<circle cx="1250" cy="500" r="5" fill="red" />
+<circle cx="1265" cy="465" r="5" fill="red" />
+<circle cx="1300" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="400" width="200" height="200"/><polyline points="1500,450 1535,465 1550,500 1465,535 1535,535 1450,500 1465,465 1500,550 1500,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="450" r="5" fill="red" />
+<circle cx="1535" cy="465" r="5" fill="red" />
+<circle cx="1550" cy="500" r="5" fill="red" />
+<circle cx="1535" cy="535" r="5" fill="red" />
+<circle cx="1500" cy="550" r="5" fill="red" />
+<circle cx="1465" cy="535" r="5" fill="red" />
+<circle cx="1450" cy="500" r="5" fill="red" />
+<circle cx="1465" cy="465" r="5" fill="red" />
+<circle cx="1500" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="400" width="200" height="200"/><polyline points="1700,450 1735,465 1750,500 1665,535 1735,535 1665,465 1650,500 1700,550 1700,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="450" r="5" fill="red" />
+<circle cx="1735" cy="465" r="5" fill="red" />
+<circle cx="1750" cy="500" r="5" fill="red" />
+<circle cx="1735" cy="535" r="5" fill="red" />
+<circle cx="1700" cy="550" r="5" fill="red" />
+<circle cx="1665" cy="535" r="5" fill="red" />
+<circle cx="1650" cy="500" r="5" fill="red" />
+<circle cx="1665" cy="465" r="5" fill="red" />
+<circle cx="1700" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="400" width="200" height="200"/><polyline points="1900,450 1935,465 1950,500 1865,535 1900,550 1850,500 1865,465 1935,535 1900,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="450" r="5" fill="red" />
+<circle cx="1935" cy="465" r="5" fill="red" />
+<circle cx="1950" cy="500" r="5" fill="red" />
+<circle cx="1935" cy="535" r="5" fill="red" />
+<circle cx="1900" cy="550" r="5" fill="red" />
+<circle cx="1865" cy="535" r="5" fill="red" />
+<circle cx="1850" cy="500" r="5" fill="red" />
+<circle cx="1865" cy="465" r="5" fill="red" />
+<circle cx="1900" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="400" width="200" height="200"/><polyline points="2100,450 2135,465 2150,500 2065,535 2100,550 2065,465 2050,500 2135,535 2100,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="450" r="5" fill="red" />
+<circle cx="2135" cy="465" r="5" fill="red" />
+<circle cx="2150" cy="500" r="5" fill="red" />
+<circle cx="2135" cy="535" r="5" fill="red" />
+<circle cx="2100" cy="550" r="5" fill="red" />
+<circle cx="2065" cy="535" r="5" fill="red" />
+<circle cx="2050" cy="500" r="5" fill="red" />
+<circle cx="2065" cy="465" r="5" fill="red" />
+<circle cx="2100" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="400" width="200" height="200"/><polyline points="2300,450 2335,465 2350,500 2250,500 2265,465 2335,535 2265,535 2300,550 2300,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="450" r="5" fill="red" />
+<circle cx="2335" cy="465" r="5" fill="red" />
+<circle cx="2350" cy="500" r="5" fill="red" />
+<circle cx="2335" cy="535" r="5" fill="red" />
+<circle cx="2300" cy="550" r="5" fill="red" />
+<circle cx="2265" cy="535" r="5" fill="red" />
+<circle cx="2250" cy="500" r="5" fill="red" />
+<circle cx="2265" cy="465" r="5" fill="red" />
+<circle cx="2300" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="400" width="200" height="200"/><polyline points="2500,450 2535,465 2550,500 2450,500 2465,465 2500,550 2465,535 2535,535 2500,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="450" r="5" fill="red" />
+<circle cx="2535" cy="465" r="5" fill="red" />
+<circle cx="2550" cy="500" r="5" fill="red" />
+<circle cx="2535" cy="535" r="5" fill="red" />
+<circle cx="2500" cy="550" r="5" fill="red" />
+<circle cx="2465" cy="535" r="5" fill="red" />
+<circle cx="2450" cy="500" r="5" fill="red" />
+<circle cx="2465" cy="465" r="5" fill="red" />
+<circle cx="2500" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="400" width="200" height="200"/><polyline points="2700,450 2735,465 2750,500 2650,500 2665,465 2665,535 2735,535 2700,550 2700,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="450" r="5" fill="red" />
+<circle cx="2735" cy="465" r="5" fill="red" />
+<circle cx="2750" cy="500" r="5" fill="red" />
+<circle cx="2735" cy="535" r="5" fill="red" />
+<circle cx="2700" cy="550" r="5" fill="red" />
+<circle cx="2665" cy="535" r="5" fill="red" />
+<circle cx="2650" cy="500" r="5" fill="red" />
+<circle cx="2665" cy="465" r="5" fill="red" />
+<circle cx="2700" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="400" width="200" height="200"/><polyline points="2900,450 2935,465 2950,500 2850,500 2935,535 2865,535 2865,465 2900,550 2900,450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="450" r="5" fill="red" />
+<circle cx="2935" cy="465" r="5" fill="red" />
+<circle cx="2950" cy="500" r="5" fill="red" />
+<circle cx="2935" cy="535" r="5" fill="red" />
+<circle cx="2900" cy="550" r="5" fill="red" />
+<circle cx="2865" cy="535" r="5" fill="red" />
+<circle cx="2850" cy="500" r="5" fill="red" />
+<circle cx="2865" cy="465" r="5" fill="red" />
+<circle cx="2900" cy="450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="600" width="200" height="200"/><polyline points="100,650 135,665 150,700 50,700 135,735 65,665 65,735 100,750 100,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="650" r="5" fill="red" />
+<circle cx="135" cy="665" r="5" fill="red" />
+<circle cx="150" cy="700" r="5" fill="red" />
+<circle cx="135" cy="735" r="5" fill="red" />
+<circle cx="100" cy="750" r="5" fill="red" />
+<circle cx="65" cy="735" r="5" fill="red" />
+<circle cx="50" cy="700" r="5" fill="red" />
+<circle cx="65" cy="665" r="5" fill="red" />
+<circle cx="100" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="600" width="200" height="200"/><polyline points="300,650 335,665 350,700 250,700 300,750 265,735 265,665 335,735 300,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="650" r="5" fill="red" />
+<circle cx="335" cy="665" r="5" fill="red" />
+<circle cx="350" cy="700" r="5" fill="red" />
+<circle cx="335" cy="735" r="5" fill="red" />
+<circle cx="300" cy="750" r="5" fill="red" />
+<circle cx="265" cy="735" r="5" fill="red" />
+<circle cx="250" cy="700" r="5" fill="red" />
+<circle cx="265" cy="665" r="5" fill="red" />
+<circle cx="300" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="600" width="200" height="200"/><polyline points="500,650 535,665 550,700 450,700 500,750 465,665 465,735 535,735 500,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="650" r="5" fill="red" />
+<circle cx="535" cy="665" r="5" fill="red" />
+<circle cx="550" cy="700" r="5" fill="red" />
+<circle cx="535" cy="735" r="5" fill="red" />
+<circle cx="500" cy="750" r="5" fill="red" />
+<circle cx="465" cy="735" r="5" fill="red" />
+<circle cx="450" cy="700" r="5" fill="red" />
+<circle cx="465" cy="665" r="5" fill="red" />
+<circle cx="500" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="600" width="200" height="200"/><polyline points="700,650 735,665 750,700 650,700 665,735 665,665 700,750 735,735 700,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="650" r="5" fill="red" />
+<circle cx="735" cy="665" r="5" fill="red" />
+<circle cx="750" cy="700" r="5" fill="red" />
+<circle cx="735" cy="735" r="5" fill="red" />
+<circle cx="700" cy="750" r="5" fill="red" />
+<circle cx="665" cy="735" r="5" fill="red" />
+<circle cx="650" cy="700" r="5" fill="red" />
+<circle cx="665" cy="665" r="5" fill="red" />
+<circle cx="700" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="600" width="200" height="200"/><polyline points="900,650 935,665 950,700 850,700 865,735 900,750 865,665 935,735 900,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="650" r="5" fill="red" />
+<circle cx="935" cy="665" r="5" fill="red" />
+<circle cx="950" cy="700" r="5" fill="red" />
+<circle cx="935" cy="735" r="5" fill="red" />
+<circle cx="900" cy="750" r="5" fill="red" />
+<circle cx="865" cy="735" r="5" fill="red" />
+<circle cx="850" cy="700" r="5" fill="red" />
+<circle cx="865" cy="665" r="5" fill="red" />
+<circle cx="900" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="600" width="200" height="200"/><polyline points="1100,650 1135,665 1150,700 1065,665 1100,750 1065,735 1050,700 1135,735 1100,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="650" r="5" fill="red" />
+<circle cx="1135" cy="665" r="5" fill="red" />
+<circle cx="1150" cy="700" r="5" fill="red" />
+<circle cx="1135" cy="735" r="5" fill="red" />
+<circle cx="1100" cy="750" r="5" fill="red" />
+<circle cx="1065" cy="735" r="5" fill="red" />
+<circle cx="1050" cy="700" r="5" fill="red" />
+<circle cx="1065" cy="665" r="5" fill="red" />
+<circle cx="1100" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="600" width="200" height="200"/><polyline points="1300,650 1335,665 1350,700 1265,665 1300,750 1250,700 1265,735 1335,735 1300,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="650" r="5" fill="red" />
+<circle cx="1335" cy="665" r="5" fill="red" />
+<circle cx="1350" cy="700" r="5" fill="red" />
+<circle cx="1335" cy="735" r="5" fill="red" />
+<circle cx="1300" cy="750" r="5" fill="red" />
+<circle cx="1265" cy="735" r="5" fill="red" />
+<circle cx="1250" cy="700" r="5" fill="red" />
+<circle cx="1265" cy="665" r="5" fill="red" />
+<circle cx="1300" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="600" width="200" height="200"/><polyline points="1500,650 1535,665 1550,700 1465,665 1465,735 1450,700 1500,750 1535,735 1500,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="650" r="5" fill="red" />
+<circle cx="1535" cy="665" r="5" fill="red" />
+<circle cx="1550" cy="700" r="5" fill="red" />
+<circle cx="1535" cy="735" r="5" fill="red" />
+<circle cx="1500" cy="750" r="5" fill="red" />
+<circle cx="1465" cy="735" r="5" fill="red" />
+<circle cx="1450" cy="700" r="5" fill="red" />
+<circle cx="1465" cy="665" r="5" fill="red" />
+<circle cx="1500" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="600" width="200" height="200"/><polyline points="1700,650 1735,665 1735,735 1700,750 1650,700 1665,665 1750,700 1665,735 1700,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="650" r="5" fill="red" />
+<circle cx="1735" cy="665" r="5" fill="red" />
+<circle cx="1750" cy="700" r="5" fill="red" />
+<circle cx="1735" cy="735" r="5" fill="red" />
+<circle cx="1700" cy="750" r="5" fill="red" />
+<circle cx="1665" cy="735" r="5" fill="red" />
+<circle cx="1650" cy="700" r="5" fill="red" />
+<circle cx="1665" cy="665" r="5" fill="red" />
+<circle cx="1700" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="600" width="200" height="200"/><polyline points="1900,650 1935,665 1935,735 1900,750 1850,700 1865,665 1865,735 1950,700 1900,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="650" r="5" fill="red" />
+<circle cx="1935" cy="665" r="5" fill="red" />
+<circle cx="1950" cy="700" r="5" fill="red" />
+<circle cx="1935" cy="735" r="5" fill="red" />
+<circle cx="1900" cy="750" r="5" fill="red" />
+<circle cx="1865" cy="735" r="5" fill="red" />
+<circle cx="1850" cy="700" r="5" fill="red" />
+<circle cx="1865" cy="665" r="5" fill="red" />
+<circle cx="1900" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="600" width="200" height="200"/><polyline points="2100,650 2135,665 2135,735 2100,750 2050,700 2150,700 2065,665 2065,735 2100,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="650" r="5" fill="red" />
+<circle cx="2135" cy="665" r="5" fill="red" />
+<circle cx="2150" cy="700" r="5" fill="red" />
+<circle cx="2135" cy="735" r="5" fill="red" />
+<circle cx="2100" cy="750" r="5" fill="red" />
+<circle cx="2065" cy="735" r="5" fill="red" />
+<circle cx="2050" cy="700" r="5" fill="red" />
+<circle cx="2065" cy="665" r="5" fill="red" />
+<circle cx="2100" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="600" width="200" height="200"/><polyline points="2300,650 2335,665 2335,735 2300,750 2250,700 2265,735 2265,665 2350,700 2300,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="650" r="5" fill="red" />
+<circle cx="2335" cy="665" r="5" fill="red" />
+<circle cx="2350" cy="700" r="5" fill="red" />
+<circle cx="2335" cy="735" r="5" fill="red" />
+<circle cx="2300" cy="750" r="5" fill="red" />
+<circle cx="2265" cy="735" r="5" fill="red" />
+<circle cx="2250" cy="700" r="5" fill="red" />
+<circle cx="2265" cy="665" r="5" fill="red" />
+<circle cx="2300" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="600" width="200" height="200"/><polyline points="2500,650 2535,665 2535,735 2500,750 2465,665 2550,700 2450,700 2465,735 2500,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="650" r="5" fill="red" />
+<circle cx="2535" cy="665" r="5" fill="red" />
+<circle cx="2550" cy="700" r="5" fill="red" />
+<circle cx="2535" cy="735" r="5" fill="red" />
+<circle cx="2500" cy="750" r="5" fill="red" />
+<circle cx="2465" cy="735" r="5" fill="red" />
+<circle cx="2450" cy="700" r="5" fill="red" />
+<circle cx="2465" cy="665" r="5" fill="red" />
+<circle cx="2500" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="600" width="200" height="200"/><polyline points="2700,650 2735,665 2735,735 2700,750 2665,665 2665,735 2650,700 2750,700 2700,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="650" r="5" fill="red" />
+<circle cx="2735" cy="665" r="5" fill="red" />
+<circle cx="2750" cy="700" r="5" fill="red" />
+<circle cx="2735" cy="735" r="5" fill="red" />
+<circle cx="2700" cy="750" r="5" fill="red" />
+<circle cx="2665" cy="735" r="5" fill="red" />
+<circle cx="2650" cy="700" r="5" fill="red" />
+<circle cx="2665" cy="665" r="5" fill="red" />
+<circle cx="2700" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="600" width="200" height="200"/><polyline points="2900,650 2935,665 2935,735 2865,735 2850,700 2950,700 2865,665 2900,750 2900,650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="650" r="5" fill="red" />
+<circle cx="2935" cy="665" r="5" fill="red" />
+<circle cx="2950" cy="700" r="5" fill="red" />
+<circle cx="2935" cy="735" r="5" fill="red" />
+<circle cx="2900" cy="750" r="5" fill="red" />
+<circle cx="2865" cy="735" r="5" fill="red" />
+<circle cx="2850" cy="700" r="5" fill="red" />
+<circle cx="2865" cy="665" r="5" fill="red" />
+<circle cx="2900" cy="650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="800" width="200" height="200"/><polyline points="100,850 135,865 135,935 65,935 50,900 100,950 65,865 150,900 100,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="850" r="5" fill="red" />
+<circle cx="135" cy="865" r="5" fill="red" />
+<circle cx="150" cy="900" r="5" fill="red" />
+<circle cx="135" cy="935" r="5" fill="red" />
+<circle cx="100" cy="950" r="5" fill="red" />
+<circle cx="65" cy="935" r="5" fill="red" />
+<circle cx="50" cy="900" r="5" fill="red" />
+<circle cx="65" cy="865" r="5" fill="red" />
+<circle cx="100" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="800" width="200" height="200"/><polyline points="300,850 335,865 335,935 265,935 265,865 350,900 300,950 250,900 300,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="850" r="5" fill="red" />
+<circle cx="335" cy="865" r="5" fill="red" />
+<circle cx="350" cy="900" r="5" fill="red" />
+<circle cx="335" cy="935" r="5" fill="red" />
+<circle cx="300" cy="950" r="5" fill="red" />
+<circle cx="265" cy="935" r="5" fill="red" />
+<circle cx="250" cy="900" r="5" fill="red" />
+<circle cx="265" cy="865" r="5" fill="red" />
+<circle cx="300" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="800" width="200" height="200"/><polyline points="500,850 535,865 535,935 465,935 465,865 550,900 450,900 500,950 500,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="850" r="5" fill="red" />
+<circle cx="535" cy="865" r="5" fill="red" />
+<circle cx="550" cy="900" r="5" fill="red" />
+<circle cx="535" cy="935" r="5" fill="red" />
+<circle cx="500" cy="950" r="5" fill="red" />
+<circle cx="465" cy="935" r="5" fill="red" />
+<circle cx="450" cy="900" r="5" fill="red" />
+<circle cx="465" cy="865" r="5" fill="red" />
+<circle cx="500" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="800" width="200" height="200"/><polyline points="700,850 735,865 735,935 665,935 665,865 700,950 650,900 750,900 700,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="850" r="5" fill="red" />
+<circle cx="735" cy="865" r="5" fill="red" />
+<circle cx="750" cy="900" r="5" fill="red" />
+<circle cx="735" cy="935" r="5" fill="red" />
+<circle cx="700" cy="950" r="5" fill="red" />
+<circle cx="665" cy="935" r="5" fill="red" />
+<circle cx="650" cy="900" r="5" fill="red" />
+<circle cx="665" cy="865" r="5" fill="red" />
+<circle cx="700" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="800" width="200" height="200"/><polyline points="900,850 935,865 935,935 865,935 865,865 900,950 950,900 850,900 900,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="850" r="5" fill="red" />
+<circle cx="935" cy="865" r="5" fill="red" />
+<circle cx="950" cy="900" r="5" fill="red" />
+<circle cx="935" cy="935" r="5" fill="red" />
+<circle cx="900" cy="950" r="5" fill="red" />
+<circle cx="865" cy="935" r="5" fill="red" />
+<circle cx="850" cy="900" r="5" fill="red" />
+<circle cx="865" cy="865" r="5" fill="red" />
+<circle cx="900" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="800" width="200" height="200"/><polyline points="1100,850 1135,865 1135,935 1065,935 1065,865 1050,900 1150,900 1100,950 1100,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="850" r="5" fill="red" />
+<circle cx="1135" cy="865" r="5" fill="red" />
+<circle cx="1150" cy="900" r="5" fill="red" />
+<circle cx="1135" cy="935" r="5" fill="red" />
+<circle cx="1100" cy="950" r="5" fill="red" />
+<circle cx="1065" cy="935" r="5" fill="red" />
+<circle cx="1050" cy="900" r="5" fill="red" />
+<circle cx="1065" cy="865" r="5" fill="red" />
+<circle cx="1100" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="800" width="200" height="200"/><polyline points="1300,850 1335,865 1335,935 1265,935 1265,865 1250,900 1300,950 1350,900 1300,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="850" r="5" fill="red" />
+<circle cx="1335" cy="865" r="5" fill="red" />
+<circle cx="1350" cy="900" r="5" fill="red" />
+<circle cx="1335" cy="935" r="5" fill="red" />
+<circle cx="1300" cy="950" r="5" fill="red" />
+<circle cx="1265" cy="935" r="5" fill="red" />
+<circle cx="1250" cy="900" r="5" fill="red" />
+<circle cx="1265" cy="865" r="5" fill="red" />
+<circle cx="1300" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="800" width="200" height="200"/><polyline points="1500,850 1535,865 1535,935 1465,935 1550,900 1500,950 1465,865 1450,900 1500,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="850" r="5" fill="red" />
+<circle cx="1535" cy="865" r="5" fill="red" />
+<circle cx="1550" cy="900" r="5" fill="red" />
+<circle cx="1535" cy="935" r="5" fill="red" />
+<circle cx="1500" cy="950" r="5" fill="red" />
+<circle cx="1465" cy="935" r="5" fill="red" />
+<circle cx="1450" cy="900" r="5" fill="red" />
+<circle cx="1465" cy="865" r="5" fill="red" />
+<circle cx="1500" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="800" width="200" height="200"/><polyline points="1700,850 1735,865 1735,935 1665,935 1750,900 1650,900 1665,865 1700,950 1700,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="850" r="5" fill="red" />
+<circle cx="1735" cy="865" r="5" fill="red" />
+<circle cx="1750" cy="900" r="5" fill="red" />
+<circle cx="1735" cy="935" r="5" fill="red" />
+<circle cx="1700" cy="950" r="5" fill="red" />
+<circle cx="1665" cy="935" r="5" fill="red" />
+<circle cx="1650" cy="900" r="5" fill="red" />
+<circle cx="1665" cy="865" r="5" fill="red" />
+<circle cx="1700" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="800" width="200" height="200"/><polyline points="1900,850 1935,865 1935,935 1865,935 1950,900 1865,865 1900,950 1850,900 1900,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="850" r="5" fill="red" />
+<circle cx="1935" cy="865" r="5" fill="red" />
+<circle cx="1950" cy="900" r="5" fill="red" />
+<circle cx="1935" cy="935" r="5" fill="red" />
+<circle cx="1900" cy="950" r="5" fill="red" />
+<circle cx="1865" cy="935" r="5" fill="red" />
+<circle cx="1850" cy="900" r="5" fill="red" />
+<circle cx="1865" cy="865" r="5" fill="red" />
+<circle cx="1900" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="800" width="200" height="200"/><polyline points="2100,850 2135,865 2135,935 2065,935 2150,900 2065,865 2050,900 2100,950 2100,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="850" r="5" fill="red" />
+<circle cx="2135" cy="865" r="5" fill="red" />
+<circle cx="2150" cy="900" r="5" fill="red" />
+<circle cx="2135" cy="935" r="5" fill="red" />
+<circle cx="2100" cy="950" r="5" fill="red" />
+<circle cx="2065" cy="935" r="5" fill="red" />
+<circle cx="2050" cy="900" r="5" fill="red" />
+<circle cx="2065" cy="865" r="5" fill="red" />
+<circle cx="2100" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="800" width="200" height="200"/><polyline points="2300,850 2335,865 2335,935 2265,935 2300,950 2250,900 2265,865 2350,900 2300,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="850" r="5" fill="red" />
+<circle cx="2335" cy="865" r="5" fill="red" />
+<circle cx="2350" cy="900" r="5" fill="red" />
+<circle cx="2335" cy="935" r="5" fill="red" />
+<circle cx="2300" cy="950" r="5" fill="red" />
+<circle cx="2265" cy="935" r="5" fill="red" />
+<circle cx="2250" cy="900" r="5" fill="red" />
+<circle cx="2265" cy="865" r="5" fill="red" />
+<circle cx="2300" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="800" width="200" height="200"/><polyline points="2500,850 2535,865 2535,935 2465,935 2500,950 2465,865 2550,900 2450,900 2500,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="850" r="5" fill="red" />
+<circle cx="2535" cy="865" r="5" fill="red" />
+<circle cx="2550" cy="900" r="5" fill="red" />
+<circle cx="2535" cy="935" r="5" fill="red" />
+<circle cx="2500" cy="950" r="5" fill="red" />
+<circle cx="2465" cy="935" r="5" fill="red" />
+<circle cx="2450" cy="900" r="5" fill="red" />
+<circle cx="2465" cy="865" r="5" fill="red" />
+<circle cx="2500" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="800" width="200" height="200"/><polyline points="2700,850 2735,865 2735,935 2665,935 2700,950 2665,865 2650,900 2750,900 2700,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="850" r="5" fill="red" />
+<circle cx="2735" cy="865" r="5" fill="red" />
+<circle cx="2750" cy="900" r="5" fill="red" />
+<circle cx="2735" cy="935" r="5" fill="red" />
+<circle cx="2700" cy="950" r="5" fill="red" />
+<circle cx="2665" cy="935" r="5" fill="red" />
+<circle cx="2650" cy="900" r="5" fill="red" />
+<circle cx="2665" cy="865" r="5" fill="red" />
+<circle cx="2700" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="800" width="200" height="200"/><polyline points="2900,850 2935,865 2935,935 2865,935 2900,950 2950,900 2865,865 2850,900 2900,850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="850" r="5" fill="red" />
+<circle cx="2935" cy="865" r="5" fill="red" />
+<circle cx="2950" cy="900" r="5" fill="red" />
+<circle cx="2935" cy="935" r="5" fill="red" />
+<circle cx="2900" cy="950" r="5" fill="red" />
+<circle cx="2865" cy="935" r="5" fill="red" />
+<circle cx="2850" cy="900" r="5" fill="red" />
+<circle cx="2865" cy="865" r="5" fill="red" />
+<circle cx="2900" cy="850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="1000" width="200" height="200"/><polyline points="100,1050 135,1065 135,1135 50,1100 65,1065 150,1100 100,1150 65,1135 100,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="1050" r="5" fill="red" />
+<circle cx="135" cy="1065" r="5" fill="red" />
+<circle cx="150" cy="1100" r="5" fill="red" />
+<circle cx="135" cy="1135" r="5" fill="red" />
+<circle cx="100" cy="1150" r="5" fill="red" />
+<circle cx="65" cy="1135" r="5" fill="red" />
+<circle cx="50" cy="1100" r="5" fill="red" />
+<circle cx="65" cy="1065" r="5" fill="red" />
+<circle cx="100" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="1000" width="200" height="200"/><polyline points="300,1050 335,1065 335,1135 250,1100 265,1065 350,1100 265,1135 300,1150 300,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="1050" r="5" fill="red" />
+<circle cx="335" cy="1065" r="5" fill="red" />
+<circle cx="350" cy="1100" r="5" fill="red" />
+<circle cx="335" cy="1135" r="5" fill="red" />
+<circle cx="300" cy="1150" r="5" fill="red" />
+<circle cx="265" cy="1135" r="5" fill="red" />
+<circle cx="250" cy="1100" r="5" fill="red" />
+<circle cx="265" cy="1065" r="5" fill="red" />
+<circle cx="300" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="1000" width="200" height="200"/><polyline points="500,1050 535,1065 535,1135 450,1100 465,1065 500,1150 465,1135 550,1100 500,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="1050" r="5" fill="red" />
+<circle cx="535" cy="1065" r="5" fill="red" />
+<circle cx="550" cy="1100" r="5" fill="red" />
+<circle cx="535" cy="1135" r="5" fill="red" />
+<circle cx="500" cy="1150" r="5" fill="red" />
+<circle cx="465" cy="1135" r="5" fill="red" />
+<circle cx="450" cy="1100" r="5" fill="red" />
+<circle cx="465" cy="1065" r="5" fill="red" />
+<circle cx="500" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="1000" width="200" height="200"/><polyline points="700,1050 735,1065 735,1135 650,1100 665,1065 700,1150 750,1100 665,1135 700,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="1050" r="5" fill="red" />
+<circle cx="735" cy="1065" r="5" fill="red" />
+<circle cx="750" cy="1100" r="5" fill="red" />
+<circle cx="735" cy="1135" r="5" fill="red" />
+<circle cx="700" cy="1150" r="5" fill="red" />
+<circle cx="665" cy="1135" r="5" fill="red" />
+<circle cx="650" cy="1100" r="5" fill="red" />
+<circle cx="665" cy="1065" r="5" fill="red" />
+<circle cx="700" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="1000" width="200" height="200"/><polyline points="900,1050 935,1065 935,1135 850,1100 865,1065 865,1135 950,1100 900,1150 900,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="1050" r="5" fill="red" />
+<circle cx="935" cy="1065" r="5" fill="red" />
+<circle cx="950" cy="1100" r="5" fill="red" />
+<circle cx="935" cy="1135" r="5" fill="red" />
+<circle cx="900" cy="1150" r="5" fill="red" />
+<circle cx="865" cy="1135" r="5" fill="red" />
+<circle cx="850" cy="1100" r="5" fill="red" />
+<circle cx="865" cy="1065" r="5" fill="red" />
+<circle cx="900" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="1000" width="200" height="200"/><polyline points="1100,1050 1135,1065 1135,1135 1050,1100 1150,1100 1100,1150 1065,1065 1065,1135 1100,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="1050" r="5" fill="red" />
+<circle cx="1135" cy="1065" r="5" fill="red" />
+<circle cx="1150" cy="1100" r="5" fill="red" />
+<circle cx="1135" cy="1135" r="5" fill="red" />
+<circle cx="1100" cy="1150" r="5" fill="red" />
+<circle cx="1065" cy="1135" r="5" fill="red" />
+<circle cx="1050" cy="1100" r="5" fill="red" />
+<circle cx="1065" cy="1065" r="5" fill="red" />
+<circle cx="1100" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="1000" width="200" height="200"/><polyline points="1300,1050 1335,1065 1335,1135 1250,1100 1350,1100 1265,1135 1265,1065 1300,1150 1300,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="1050" r="5" fill="red" />
+<circle cx="1335" cy="1065" r="5" fill="red" />
+<circle cx="1350" cy="1100" r="5" fill="red" />
+<circle cx="1335" cy="1135" r="5" fill="red" />
+<circle cx="1300" cy="1150" r="5" fill="red" />
+<circle cx="1265" cy="1135" r="5" fill="red" />
+<circle cx="1250" cy="1100" r="5" fill="red" />
+<circle cx="1265" cy="1065" r="5" fill="red" />
+<circle cx="1300" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="1000" width="200" height="200"/><polyline points="1500,1050 1535,1065 1535,1135 1450,1100 1550,1100 1465,1065 1500,1150 1465,1135 1500,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="1050" r="5" fill="red" />
+<circle cx="1535" cy="1065" r="5" fill="red" />
+<circle cx="1550" cy="1100" r="5" fill="red" />
+<circle cx="1535" cy="1135" r="5" fill="red" />
+<circle cx="1500" cy="1150" r="5" fill="red" />
+<circle cx="1465" cy="1135" r="5" fill="red" />
+<circle cx="1450" cy="1100" r="5" fill="red" />
+<circle cx="1465" cy="1065" r="5" fill="red" />
+<circle cx="1500" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="1000" width="200" height="200"/><polyline points="1700,1050 1735,1065 1735,1135 1650,1100 1750,1100 1665,1065 1665,1135 1700,1150 1700,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="1050" r="5" fill="red" />
+<circle cx="1735" cy="1065" r="5" fill="red" />
+<circle cx="1750" cy="1100" r="5" fill="red" />
+<circle cx="1735" cy="1135" r="5" fill="red" />
+<circle cx="1700" cy="1150" r="5" fill="red" />
+<circle cx="1665" cy="1135" r="5" fill="red" />
+<circle cx="1650" cy="1100" r="5" fill="red" />
+<circle cx="1665" cy="1065" r="5" fill="red" />
+<circle cx="1700" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="1000" width="200" height="200"/><polyline points="1900,1050 1935,1065 1935,1135 1850,1100 1900,1150 1865,1135 1865,1065 1950,1100 1900,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="1050" r="5" fill="red" />
+<circle cx="1935" cy="1065" r="5" fill="red" />
+<circle cx="1950" cy="1100" r="5" fill="red" />
+<circle cx="1935" cy="1135" r="5" fill="red" />
+<circle cx="1900" cy="1150" r="5" fill="red" />
+<circle cx="1865" cy="1135" r="5" fill="red" />
+<circle cx="1850" cy="1100" r="5" fill="red" />
+<circle cx="1865" cy="1065" r="5" fill="red" />
+<circle cx="1900" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="1000" width="200" height="200"/><polyline points="2100,1050 2135,1065 2135,1135 2050,1100 2100,1150 2065,1065 2150,1100 2065,1135 2100,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="1050" r="5" fill="red" />
+<circle cx="2135" cy="1065" r="5" fill="red" />
+<circle cx="2150" cy="1100" r="5" fill="red" />
+<circle cx="2135" cy="1135" r="5" fill="red" />
+<circle cx="2100" cy="1150" r="5" fill="red" />
+<circle cx="2065" cy="1135" r="5" fill="red" />
+<circle cx="2050" cy="1100" r="5" fill="red" />
+<circle cx="2065" cy="1065" r="5" fill="red" />
+<circle cx="2100" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="1000" width="200" height="200"/><polyline points="2300,1050 2335,1065 2335,1135 2250,1100 2300,1150 2265,1065 2265,1135 2350,1100 2300,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="1050" r="5" fill="red" />
+<circle cx="2335" cy="1065" r="5" fill="red" />
+<circle cx="2350" cy="1100" r="5" fill="red" />
+<circle cx="2335" cy="1135" r="5" fill="red" />
+<circle cx="2300" cy="1150" r="5" fill="red" />
+<circle cx="2265" cy="1135" r="5" fill="red" />
+<circle cx="2250" cy="1100" r="5" fill="red" />
+<circle cx="2265" cy="1065" r="5" fill="red" />
+<circle cx="2300" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="1000" width="200" height="200"/><polyline points="2500,1050 2535,1065 2535,1135 2450,1100 2500,1150 2550,1100 2465,1065 2465,1135 2500,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="1050" r="5" fill="red" />
+<circle cx="2535" cy="1065" r="5" fill="red" />
+<circle cx="2550" cy="1100" r="5" fill="red" />
+<circle cx="2535" cy="1135" r="5" fill="red" />
+<circle cx="2500" cy="1150" r="5" fill="red" />
+<circle cx="2465" cy="1135" r="5" fill="red" />
+<circle cx="2450" cy="1100" r="5" fill="red" />
+<circle cx="2465" cy="1065" r="5" fill="red" />
+<circle cx="2500" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="1000" width="200" height="200"/><polyline points="2700,1050 2735,1065 2735,1135 2650,1100 2665,1135 2665,1065 2750,1100 2700,1150 2700,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="1050" r="5" fill="red" />
+<circle cx="2735" cy="1065" r="5" fill="red" />
+<circle cx="2750" cy="1100" r="5" fill="red" />
+<circle cx="2735" cy="1135" r="5" fill="red" />
+<circle cx="2700" cy="1150" r="5" fill="red" />
+<circle cx="2665" cy="1135" r="5" fill="red" />
+<circle cx="2650" cy="1100" r="5" fill="red" />
+<circle cx="2665" cy="1065" r="5" fill="red" />
+<circle cx="2700" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="1000" width="200" height="200"/><polyline points="2900,1050 2935,1065 2935,1135 2850,1100 2865,1135 2865,1065 2900,1150 2950,1100 2900,1050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="1050" r="5" fill="red" />
+<circle cx="2935" cy="1065" r="5" fill="red" />
+<circle cx="2950" cy="1100" r="5" fill="red" />
+<circle cx="2935" cy="1135" r="5" fill="red" />
+<circle cx="2900" cy="1150" r="5" fill="red" />
+<circle cx="2865" cy="1135" r="5" fill="red" />
+<circle cx="2850" cy="1100" r="5" fill="red" />
+<circle cx="2865" cy="1065" r="5" fill="red" />
+<circle cx="2900" cy="1050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="1200" width="200" height="200"/><polyline points="100,1250 135,1265 135,1335 50,1300 65,1335 150,1300 65,1265 100,1350 100,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="1250" r="5" fill="red" />
+<circle cx="135" cy="1265" r="5" fill="red" />
+<circle cx="150" cy="1300" r="5" fill="red" />
+<circle cx="135" cy="1335" r="5" fill="red" />
+<circle cx="100" cy="1350" r="5" fill="red" />
+<circle cx="65" cy="1335" r="5" fill="red" />
+<circle cx="50" cy="1300" r="5" fill="red" />
+<circle cx="65" cy="1265" r="5" fill="red" />
+<circle cx="100" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="1200" width="200" height="200"/><polyline points="300,1250 335,1265 335,1335 265,1265 350,1300 300,1350 250,1300 265,1335 300,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="1250" r="5" fill="red" />
+<circle cx="335" cy="1265" r="5" fill="red" />
+<circle cx="350" cy="1300" r="5" fill="red" />
+<circle cx="335" cy="1335" r="5" fill="red" />
+<circle cx="300" cy="1350" r="5" fill="red" />
+<circle cx="265" cy="1335" r="5" fill="red" />
+<circle cx="250" cy="1300" r="5" fill="red" />
+<circle cx="265" cy="1265" r="5" fill="red" />
+<circle cx="300" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="1200" width="200" height="200"/><polyline points="500,1250 535,1265 535,1335 465,1265 550,1300 465,1335 450,1300 500,1350 500,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="1250" r="5" fill="red" />
+<circle cx="535" cy="1265" r="5" fill="red" />
+<circle cx="550" cy="1300" r="5" fill="red" />
+<circle cx="535" cy="1335" r="5" fill="red" />
+<circle cx="500" cy="1350" r="5" fill="red" />
+<circle cx="465" cy="1335" r="5" fill="red" />
+<circle cx="450" cy="1300" r="5" fill="red" />
+<circle cx="465" cy="1265" r="5" fill="red" />
+<circle cx="500" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="1200" width="200" height="200"/><polyline points="700,1250 735,1265 735,1335 665,1265 750,1300 650,1300 700,1350 665,1335 700,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="1250" r="5" fill="red" />
+<circle cx="735" cy="1265" r="5" fill="red" />
+<circle cx="750" cy="1300" r="5" fill="red" />
+<circle cx="735" cy="1335" r="5" fill="red" />
+<circle cx="700" cy="1350" r="5" fill="red" />
+<circle cx="665" cy="1335" r="5" fill="red" />
+<circle cx="650" cy="1300" r="5" fill="red" />
+<circle cx="665" cy="1265" r="5" fill="red" />
+<circle cx="700" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="1200" width="200" height="200"/><polyline points="900,1250 935,1265 935,1335 865,1265 900,1350 865,1335 950,1300 850,1300 900,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="1250" r="5" fill="red" />
+<circle cx="935" cy="1265" r="5" fill="red" />
+<circle cx="950" cy="1300" r="5" fill="red" />
+<circle cx="935" cy="1335" r="5" fill="red" />
+<circle cx="900" cy="1350" r="5" fill="red" />
+<circle cx="865" cy="1335" r="5" fill="red" />
+<circle cx="850" cy="1300" r="5" fill="red" />
+<circle cx="865" cy="1265" r="5" fill="red" />
+<circle cx="900" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="1200" width="200" height="200"/><polyline points="1100,1250 1135,1265 1135,1335 1065,1265 1100,1350 1050,1300 1150,1300 1065,1335 1100,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="1250" r="5" fill="red" />
+<circle cx="1135" cy="1265" r="5" fill="red" />
+<circle cx="1150" cy="1300" r="5" fill="red" />
+<circle cx="1135" cy="1335" r="5" fill="red" />
+<circle cx="1100" cy="1350" r="5" fill="red" />
+<circle cx="1065" cy="1335" r="5" fill="red" />
+<circle cx="1050" cy="1300" r="5" fill="red" />
+<circle cx="1065" cy="1265" r="5" fill="red" />
+<circle cx="1100" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="1200" width="200" height="200"/><polyline points="1300,1250 1335,1265 1335,1335 1265,1265 1300,1350 1250,1300 1265,1335 1350,1300 1300,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="1250" r="5" fill="red" />
+<circle cx="1335" cy="1265" r="5" fill="red" />
+<circle cx="1350" cy="1300" r="5" fill="red" />
+<circle cx="1335" cy="1335" r="5" fill="red" />
+<circle cx="1300" cy="1350" r="5" fill="red" />
+<circle cx="1265" cy="1335" r="5" fill="red" />
+<circle cx="1250" cy="1300" r="5" fill="red" />
+<circle cx="1265" cy="1265" r="5" fill="red" />
+<circle cx="1300" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="1200" width="200" height="200"/><polyline points="1500,1250 1535,1265 1535,1335 1465,1265 1500,1350 1550,1300 1450,1300 1465,1335 1500,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="1250" r="5" fill="red" />
+<circle cx="1535" cy="1265" r="5" fill="red" />
+<circle cx="1550" cy="1300" r="5" fill="red" />
+<circle cx="1535" cy="1335" r="5" fill="red" />
+<circle cx="1500" cy="1350" r="5" fill="red" />
+<circle cx="1465" cy="1335" r="5" fill="red" />
+<circle cx="1450" cy="1300" r="5" fill="red" />
+<circle cx="1465" cy="1265" r="5" fill="red" />
+<circle cx="1500" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="1200" width="200" height="200"/><polyline points="1700,1250 1735,1265 1735,1335 1665,1265 1665,1335 1650,1300 1750,1300 1700,1350 1700,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="1250" r="5" fill="red" />
+<circle cx="1735" cy="1265" r="5" fill="red" />
+<circle cx="1750" cy="1300" r="5" fill="red" />
+<circle cx="1735" cy="1335" r="5" fill="red" />
+<circle cx="1700" cy="1350" r="5" fill="red" />
+<circle cx="1665" cy="1335" r="5" fill="red" />
+<circle cx="1650" cy="1300" r="5" fill="red" />
+<circle cx="1665" cy="1265" r="5" fill="red" />
+<circle cx="1700" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="1200" width="200" height="200"/><polyline points="1900,1250 1935,1265 1935,1335 1865,1265 1865,1335 1850,1300 1900,1350 1950,1300 1900,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="1250" r="5" fill="red" />
+<circle cx="1935" cy="1265" r="5" fill="red" />
+<circle cx="1950" cy="1300" r="5" fill="red" />
+<circle cx="1935" cy="1335" r="5" fill="red" />
+<circle cx="1900" cy="1350" r="5" fill="red" />
+<circle cx="1865" cy="1335" r="5" fill="red" />
+<circle cx="1850" cy="1300" r="5" fill="red" />
+<circle cx="1865" cy="1265" r="5" fill="red" />
+<circle cx="1900" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="1200" width="200" height="200"/><polyline points="2100,1250 2135,1265 2135,1335 2065,1265 2065,1335 2150,1300 2050,1300 2100,1350 2100,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="1250" r="5" fill="red" />
+<circle cx="2135" cy="1265" r="5" fill="red" />
+<circle cx="2150" cy="1300" r="5" fill="red" />
+<circle cx="2135" cy="1335" r="5" fill="red" />
+<circle cx="2100" cy="1350" r="5" fill="red" />
+<circle cx="2065" cy="1335" r="5" fill="red" />
+<circle cx="2050" cy="1300" r="5" fill="red" />
+<circle cx="2065" cy="1265" r="5" fill="red" />
+<circle cx="2100" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="1200" width="200" height="200"/><polyline points="2300,1250 2335,1265 2335,1335 2265,1265 2265,1335 2300,1350 2250,1300 2350,1300 2300,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="1250" r="5" fill="red" />
+<circle cx="2335" cy="1265" r="5" fill="red" />
+<circle cx="2350" cy="1300" r="5" fill="red" />
+<circle cx="2335" cy="1335" r="5" fill="red" />
+<circle cx="2300" cy="1350" r="5" fill="red" />
+<circle cx="2265" cy="1335" r="5" fill="red" />
+<circle cx="2250" cy="1300" r="5" fill="red" />
+<circle cx="2265" cy="1265" r="5" fill="red" />
+<circle cx="2300" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="1200" width="200" height="200"/><polyline points="2500,1250 2535,1265 2535,1335 2465,1265 2465,1335 2500,1350 2550,1300 2450,1300 2500,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="1250" r="5" fill="red" />
+<circle cx="2535" cy="1265" r="5" fill="red" />
+<circle cx="2550" cy="1300" r="5" fill="red" />
+<circle cx="2535" cy="1335" r="5" fill="red" />
+<circle cx="2500" cy="1350" r="5" fill="red" />
+<circle cx="2465" cy="1335" r="5" fill="red" />
+<circle cx="2450" cy="1300" r="5" fill="red" />
+<circle cx="2465" cy="1265" r="5" fill="red" />
+<circle cx="2500" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="1200" width="200" height="200"/><polyline points="2700,1250 2735,1265 2735,1335 2665,1265 2650,1300 2750,1300 2700,1350 2665,1335 2700,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="1250" r="5" fill="red" />
+<circle cx="2735" cy="1265" r="5" fill="red" />
+<circle cx="2750" cy="1300" r="5" fill="red" />
+<circle cx="2735" cy="1335" r="5" fill="red" />
+<circle cx="2700" cy="1350" r="5" fill="red" />
+<circle cx="2665" cy="1335" r="5" fill="red" />
+<circle cx="2650" cy="1300" r="5" fill="red" />
+<circle cx="2665" cy="1265" r="5" fill="red" />
+<circle cx="2700" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="1200" width="200" height="200"/><polyline points="2900,1250 2935,1265 2935,1335 2865,1265 2850,1300 2950,1300 2865,1335 2900,1350 2900,1250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="1250" r="5" fill="red" />
+<circle cx="2935" cy="1265" r="5" fill="red" />
+<circle cx="2950" cy="1300" r="5" fill="red" />
+<circle cx="2935" cy="1335" r="5" fill="red" />
+<circle cx="2900" cy="1350" r="5" fill="red" />
+<circle cx="2865" cy="1335" r="5" fill="red" />
+<circle cx="2850" cy="1300" r="5" fill="red" />
+<circle cx="2865" cy="1265" r="5" fill="red" />
+<circle cx="2900" cy="1250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="1400" width="200" height="200"/><polyline points="100,1450 135,1465 135,1535 65,1465 50,1500 100,1550 65,1535 150,1500 100,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="1450" r="5" fill="red" />
+<circle cx="135" cy="1465" r="5" fill="red" />
+<circle cx="150" cy="1500" r="5" fill="red" />
+<circle cx="135" cy="1535" r="5" fill="red" />
+<circle cx="100" cy="1550" r="5" fill="red" />
+<circle cx="65" cy="1535" r="5" fill="red" />
+<circle cx="50" cy="1500" r="5" fill="red" />
+<circle cx="65" cy="1465" r="5" fill="red" />
+<circle cx="100" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="1400" width="200" height="200"/><polyline points="300,1450 335,1465 335,1535 350,1500 300,1550 265,1535 265,1465 250,1500 300,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="1450" r="5" fill="red" />
+<circle cx="335" cy="1465" r="5" fill="red" />
+<circle cx="350" cy="1500" r="5" fill="red" />
+<circle cx="335" cy="1535" r="5" fill="red" />
+<circle cx="300" cy="1550" r="5" fill="red" />
+<circle cx="265" cy="1535" r="5" fill="red" />
+<circle cx="250" cy="1500" r="5" fill="red" />
+<circle cx="265" cy="1465" r="5" fill="red" />
+<circle cx="300" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="1400" width="200" height="200"/><polyline points="500,1450 535,1465 535,1535 550,1500 465,1535 500,1550 465,1465 450,1500 500,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="1450" r="5" fill="red" />
+<circle cx="535" cy="1465" r="5" fill="red" />
+<circle cx="550" cy="1500" r="5" fill="red" />
+<circle cx="535" cy="1535" r="5" fill="red" />
+<circle cx="500" cy="1550" r="5" fill="red" />
+<circle cx="465" cy="1535" r="5" fill="red" />
+<circle cx="450" cy="1500" r="5" fill="red" />
+<circle cx="465" cy="1465" r="5" fill="red" />
+<circle cx="500" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="1400" width="200" height="200"/><polyline points="700,1450 735,1465 735,1535 750,1500 650,1500 665,1465 700,1550 665,1535 700,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="1450" r="5" fill="red" />
+<circle cx="735" cy="1465" r="5" fill="red" />
+<circle cx="750" cy="1500" r="5" fill="red" />
+<circle cx="735" cy="1535" r="5" fill="red" />
+<circle cx="700" cy="1550" r="5" fill="red" />
+<circle cx="665" cy="1535" r="5" fill="red" />
+<circle cx="650" cy="1500" r="5" fill="red" />
+<circle cx="665" cy="1465" r="5" fill="red" />
+<circle cx="700" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="1400" width="200" height="200"/><polyline points="900,1450 935,1465 935,1535 950,1500 850,1500 865,1465 865,1535 900,1550 900,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="1450" r="5" fill="red" />
+<circle cx="935" cy="1465" r="5" fill="red" />
+<circle cx="950" cy="1500" r="5" fill="red" />
+<circle cx="935" cy="1535" r="5" fill="red" />
+<circle cx="900" cy="1550" r="5" fill="red" />
+<circle cx="865" cy="1535" r="5" fill="red" />
+<circle cx="850" cy="1500" r="5" fill="red" />
+<circle cx="865" cy="1465" r="5" fill="red" />
+<circle cx="900" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="1400" width="200" height="200"/><polyline points="1100,1450 1135,1465 1135,1535 1150,1500 1050,1500 1100,1550 1065,1465 1065,1535 1100,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="1450" r="5" fill="red" />
+<circle cx="1135" cy="1465" r="5" fill="red" />
+<circle cx="1150" cy="1500" r="5" fill="red" />
+<circle cx="1135" cy="1535" r="5" fill="red" />
+<circle cx="1100" cy="1550" r="5" fill="red" />
+<circle cx="1065" cy="1535" r="5" fill="red" />
+<circle cx="1050" cy="1500" r="5" fill="red" />
+<circle cx="1065" cy="1465" r="5" fill="red" />
+<circle cx="1100" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="1400" width="200" height="200"/><polyline points="1300,1450 1335,1465 1335,1535 1350,1500 1250,1500 1265,1535 1265,1465 1300,1550 1300,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="1450" r="5" fill="red" />
+<circle cx="1335" cy="1465" r="5" fill="red" />
+<circle cx="1350" cy="1500" r="5" fill="red" />
+<circle cx="1335" cy="1535" r="5" fill="red" />
+<circle cx="1300" cy="1550" r="5" fill="red" />
+<circle cx="1265" cy="1535" r="5" fill="red" />
+<circle cx="1250" cy="1500" r="5" fill="red" />
+<circle cx="1265" cy="1465" r="5" fill="red" />
+<circle cx="1300" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="1400" width="200" height="200"/><polyline points="1500,1450 1535,1465 1535,1535 1550,1500 1465,1465 1500,1550 1450,1500 1465,1535 1500,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="1450" r="5" fill="red" />
+<circle cx="1535" cy="1465" r="5" fill="red" />
+<circle cx="1550" cy="1500" r="5" fill="red" />
+<circle cx="1535" cy="1535" r="5" fill="red" />
+<circle cx="1500" cy="1550" r="5" fill="red" />
+<circle cx="1465" cy="1535" r="5" fill="red" />
+<circle cx="1450" cy="1500" r="5" fill="red" />
+<circle cx="1465" cy="1465" r="5" fill="red" />
+<circle cx="1500" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="1400" width="200" height="200"/><polyline points="1700,1450 1735,1465 1735,1535 1750,1500 1665,1465 1665,1535 1650,1500 1700,1550 1700,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="1450" r="5" fill="red" />
+<circle cx="1735" cy="1465" r="5" fill="red" />
+<circle cx="1750" cy="1500" r="5" fill="red" />
+<circle cx="1735" cy="1535" r="5" fill="red" />
+<circle cx="1700" cy="1550" r="5" fill="red" />
+<circle cx="1665" cy="1535" r="5" fill="red" />
+<circle cx="1650" cy="1500" r="5" fill="red" />
+<circle cx="1665" cy="1465" r="5" fill="red" />
+<circle cx="1700" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="1400" width="200" height="200"/><polyline points="1900,1450 1935,1465 1935,1535 1950,1500 1865,1465 1850,1500 1900,1550 1865,1535 1900,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="1450" r="5" fill="red" />
+<circle cx="1935" cy="1465" r="5" fill="red" />
+<circle cx="1950" cy="1500" r="5" fill="red" />
+<circle cx="1935" cy="1535" r="5" fill="red" />
+<circle cx="1900" cy="1550" r="5" fill="red" />
+<circle cx="1865" cy="1535" r="5" fill="red" />
+<circle cx="1850" cy="1500" r="5" fill="red" />
+<circle cx="1865" cy="1465" r="5" fill="red" />
+<circle cx="1900" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="1400" width="200" height="200"/><polyline points="2100,1450 2135,1465 2100,1550 2065,1535 2150,1500 2050,1500 2065,1465 2135,1535 2100,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="1450" r="5" fill="red" />
+<circle cx="2135" cy="1465" r="5" fill="red" />
+<circle cx="2150" cy="1500" r="5" fill="red" />
+<circle cx="2135" cy="1535" r="5" fill="red" />
+<circle cx="2100" cy="1550" r="5" fill="red" />
+<circle cx="2065" cy="1535" r="5" fill="red" />
+<circle cx="2050" cy="1500" r="5" fill="red" />
+<circle cx="2065" cy="1465" r="5" fill="red" />
+<circle cx="2100" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="1400" width="200" height="200"/><polyline points="2300,1450 2335,1465 2300,1550 2265,1535 2350,1500 2265,1465 2250,1500 2335,1535 2300,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="1450" r="5" fill="red" />
+<circle cx="2335" cy="1465" r="5" fill="red" />
+<circle cx="2350" cy="1500" r="5" fill="red" />
+<circle cx="2335" cy="1535" r="5" fill="red" />
+<circle cx="2300" cy="1550" r="5" fill="red" />
+<circle cx="2265" cy="1535" r="5" fill="red" />
+<circle cx="2250" cy="1500" r="5" fill="red" />
+<circle cx="2265" cy="1465" r="5" fill="red" />
+<circle cx="2300" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="1400" width="200" height="200"/><polyline points="2500,1450 2535,1465 2500,1550 2465,1535 2535,1535 2450,1500 2465,1465 2550,1500 2500,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="1450" r="5" fill="red" />
+<circle cx="2535" cy="1465" r="5" fill="red" />
+<circle cx="2550" cy="1500" r="5" fill="red" />
+<circle cx="2535" cy="1535" r="5" fill="red" />
+<circle cx="2500" cy="1550" r="5" fill="red" />
+<circle cx="2465" cy="1535" r="5" fill="red" />
+<circle cx="2450" cy="1500" r="5" fill="red" />
+<circle cx="2465" cy="1465" r="5" fill="red" />
+<circle cx="2500" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="1400" width="200" height="200"/><polyline points="2700,1450 2735,1465 2700,1550 2665,1535 2735,1535 2665,1465 2650,1500 2750,1500 2700,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="1450" r="5" fill="red" />
+<circle cx="2735" cy="1465" r="5" fill="red" />
+<circle cx="2750" cy="1500" r="5" fill="red" />
+<circle cx="2735" cy="1535" r="5" fill="red" />
+<circle cx="2700" cy="1550" r="5" fill="red" />
+<circle cx="2665" cy="1535" r="5" fill="red" />
+<circle cx="2650" cy="1500" r="5" fill="red" />
+<circle cx="2665" cy="1465" r="5" fill="red" />
+<circle cx="2700" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="1400" width="200" height="200"/><polyline points="2900,1450 2935,1465 2900,1550 2850,1500 2950,1500 2935,1535 2865,1465 2865,1535 2900,1450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="1450" r="5" fill="red" />
+<circle cx="2935" cy="1465" r="5" fill="red" />
+<circle cx="2950" cy="1500" r="5" fill="red" />
+<circle cx="2935" cy="1535" r="5" fill="red" />
+<circle cx="2900" cy="1550" r="5" fill="red" />
+<circle cx="2865" cy="1535" r="5" fill="red" />
+<circle cx="2850" cy="1500" r="5" fill="red" />
+<circle cx="2865" cy="1465" r="5" fill="red" />
+<circle cx="2900" cy="1450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="1600" width="200" height="200"/><polyline points="100,1650 135,1665 100,1750 50,1700 150,1700 65,1735 65,1665 135,1735 100,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="1650" r="5" fill="red" />
+<circle cx="135" cy="1665" r="5" fill="red" />
+<circle cx="150" cy="1700" r="5" fill="red" />
+<circle cx="135" cy="1735" r="5" fill="red" />
+<circle cx="100" cy="1750" r="5" fill="red" />
+<circle cx="65" cy="1735" r="5" fill="red" />
+<circle cx="50" cy="1700" r="5" fill="red" />
+<circle cx="65" cy="1665" r="5" fill="red" />
+<circle cx="100" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="1600" width="200" height="200"/><polyline points="300,1650 335,1665 300,1750 250,1700 350,1700 265,1665 335,1735 265,1735 300,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="1650" r="5" fill="red" />
+<circle cx="335" cy="1665" r="5" fill="red" />
+<circle cx="350" cy="1700" r="5" fill="red" />
+<circle cx="335" cy="1735" r="5" fill="red" />
+<circle cx="300" cy="1750" r="5" fill="red" />
+<circle cx="265" cy="1735" r="5" fill="red" />
+<circle cx="250" cy="1700" r="5" fill="red" />
+<circle cx="265" cy="1665" r="5" fill="red" />
+<circle cx="300" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="1600" width="200" height="200"/><polyline points="500,1650 535,1665 500,1750 450,1700 550,1700 465,1665 465,1735 535,1735 500,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="1650" r="5" fill="red" />
+<circle cx="535" cy="1665" r="5" fill="red" />
+<circle cx="550" cy="1700" r="5" fill="red" />
+<circle cx="535" cy="1735" r="5" fill="red" />
+<circle cx="500" cy="1750" r="5" fill="red" />
+<circle cx="465" cy="1735" r="5" fill="red" />
+<circle cx="450" cy="1700" r="5" fill="red" />
+<circle cx="465" cy="1665" r="5" fill="red" />
+<circle cx="500" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="1600" width="200" height="200"/><polyline points="700,1650 735,1665 700,1750 650,1700 735,1735 665,1735 665,1665 750,1700 700,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="1650" r="5" fill="red" />
+<circle cx="735" cy="1665" r="5" fill="red" />
+<circle cx="750" cy="1700" r="5" fill="red" />
+<circle cx="735" cy="1735" r="5" fill="red" />
+<circle cx="700" cy="1750" r="5" fill="red" />
+<circle cx="665" cy="1735" r="5" fill="red" />
+<circle cx="650" cy="1700" r="5" fill="red" />
+<circle cx="665" cy="1665" r="5" fill="red" />
+<circle cx="700" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="1600" width="200" height="200"/><polyline points="900,1650 935,1665 900,1750 850,1700 935,1735 865,1665 950,1700 865,1735 900,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="1650" r="5" fill="red" />
+<circle cx="935" cy="1665" r="5" fill="red" />
+<circle cx="950" cy="1700" r="5" fill="red" />
+<circle cx="935" cy="1735" r="5" fill="red" />
+<circle cx="900" cy="1750" r="5" fill="red" />
+<circle cx="865" cy="1735" r="5" fill="red" />
+<circle cx="850" cy="1700" r="5" fill="red" />
+<circle cx="865" cy="1665" r="5" fill="red" />
+<circle cx="900" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="1600" width="200" height="200"/><polyline points="1100,1650 1135,1665 1100,1750 1050,1700 1135,1735 1065,1665 1065,1735 1150,1700 1100,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="1650" r="5" fill="red" />
+<circle cx="1135" cy="1665" r="5" fill="red" />
+<circle cx="1150" cy="1700" r="5" fill="red" />
+<circle cx="1135" cy="1735" r="5" fill="red" />
+<circle cx="1100" cy="1750" r="5" fill="red" />
+<circle cx="1065" cy="1735" r="5" fill="red" />
+<circle cx="1050" cy="1700" r="5" fill="red" />
+<circle cx="1065" cy="1665" r="5" fill="red" />
+<circle cx="1100" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="1600" width="200" height="200"/><polyline points="1300,1650 1335,1665 1300,1750 1250,1700 1335,1735 1350,1700 1265,1665 1265,1735 1300,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="1650" r="5" fill="red" />
+<circle cx="1335" cy="1665" r="5" fill="red" />
+<circle cx="1350" cy="1700" r="5" fill="red" />
+<circle cx="1335" cy="1735" r="5" fill="red" />
+<circle cx="1300" cy="1750" r="5" fill="red" />
+<circle cx="1265" cy="1735" r="5" fill="red" />
+<circle cx="1250" cy="1700" r="5" fill="red" />
+<circle cx="1265" cy="1665" r="5" fill="red" />
+<circle cx="1300" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="1600" width="200" height="200"/><polyline points="1500,1650 1535,1665 1500,1750 1450,1700 1465,1735 1465,1665 1550,1700 1535,1735 1500,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="1650" r="5" fill="red" />
+<circle cx="1535" cy="1665" r="5" fill="red" />
+<circle cx="1550" cy="1700" r="5" fill="red" />
+<circle cx="1535" cy="1735" r="5" fill="red" />
+<circle cx="1500" cy="1750" r="5" fill="red" />
+<circle cx="1465" cy="1735" r="5" fill="red" />
+<circle cx="1450" cy="1700" r="5" fill="red" />
+<circle cx="1465" cy="1665" r="5" fill="red" />
+<circle cx="1500" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="1600" width="200" height="200"/><polyline points="1700,1650 1735,1665 1700,1750 1650,1700 1665,1735 1750,1700 1665,1665 1735,1735 1700,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="1650" r="5" fill="red" />
+<circle cx="1735" cy="1665" r="5" fill="red" />
+<circle cx="1750" cy="1700" r="5" fill="red" />
+<circle cx="1735" cy="1735" r="5" fill="red" />
+<circle cx="1700" cy="1750" r="5" fill="red" />
+<circle cx="1665" cy="1735" r="5" fill="red" />
+<circle cx="1650" cy="1700" r="5" fill="red" />
+<circle cx="1665" cy="1665" r="5" fill="red" />
+<circle cx="1700" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="1600" width="200" height="200"/><polyline points="1900,1650 1935,1665 1900,1750 1865,1665 1950,1700 1935,1735 1850,1700 1865,1735 1900,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="1650" r="5" fill="red" />
+<circle cx="1935" cy="1665" r="5" fill="red" />
+<circle cx="1950" cy="1700" r="5" fill="red" />
+<circle cx="1935" cy="1735" r="5" fill="red" />
+<circle cx="1900" cy="1750" r="5" fill="red" />
+<circle cx="1865" cy="1735" r="5" fill="red" />
+<circle cx="1850" cy="1700" r="5" fill="red" />
+<circle cx="1865" cy="1665" r="5" fill="red" />
+<circle cx="1900" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="1600" width="200" height="200"/><polyline points="2100,1650 2135,1665 2100,1750 2065,1665 2150,1700 2065,1735 2050,1700 2135,1735 2100,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="1650" r="5" fill="red" />
+<circle cx="2135" cy="1665" r="5" fill="red" />
+<circle cx="2150" cy="1700" r="5" fill="red" />
+<circle cx="2135" cy="1735" r="5" fill="red" />
+<circle cx="2100" cy="1750" r="5" fill="red" />
+<circle cx="2065" cy="1735" r="5" fill="red" />
+<circle cx="2050" cy="1700" r="5" fill="red" />
+<circle cx="2065" cy="1665" r="5" fill="red" />
+<circle cx="2100" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="1600" width="200" height="200"/><polyline points="2300,1650 2335,1665 2300,1750 2265,1665 2335,1735 2250,1700 2350,1700 2265,1735 2300,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="1650" r="5" fill="red" />
+<circle cx="2335" cy="1665" r="5" fill="red" />
+<circle cx="2350" cy="1700" r="5" fill="red" />
+<circle cx="2335" cy="1735" r="5" fill="red" />
+<circle cx="2300" cy="1750" r="5" fill="red" />
+<circle cx="2265" cy="1735" r="5" fill="red" />
+<circle cx="2250" cy="1700" r="5" fill="red" />
+<circle cx="2265" cy="1665" r="5" fill="red" />
+<circle cx="2300" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="1600" width="200" height="200"/><polyline points="2500,1650 2535,1665 2500,1750 2465,1665 2535,1735 2550,1700 2450,1700 2465,1735 2500,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="1650" r="5" fill="red" />
+<circle cx="2535" cy="1665" r="5" fill="red" />
+<circle cx="2550" cy="1700" r="5" fill="red" />
+<circle cx="2535" cy="1735" r="5" fill="red" />
+<circle cx="2500" cy="1750" r="5" fill="red" />
+<circle cx="2465" cy="1735" r="5" fill="red" />
+<circle cx="2450" cy="1700" r="5" fill="red" />
+<circle cx="2465" cy="1665" r="5" fill="red" />
+<circle cx="2500" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="1600" width="200" height="200"/><polyline points="2700,1650 2735,1665 2700,1750 2665,1665 2665,1735 2650,1700 2750,1700 2735,1735 2700,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="1650" r="5" fill="red" />
+<circle cx="2735" cy="1665" r="5" fill="red" />
+<circle cx="2750" cy="1700" r="5" fill="red" />
+<circle cx="2735" cy="1735" r="5" fill="red" />
+<circle cx="2700" cy="1750" r="5" fill="red" />
+<circle cx="2665" cy="1735" r="5" fill="red" />
+<circle cx="2650" cy="1700" r="5" fill="red" />
+<circle cx="2665" cy="1665" r="5" fill="red" />
+<circle cx="2700" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="1600" width="200" height="200"/><polyline points="2900,1650 2935,1665 2900,1750 2865,1665 2865,1735 2950,1700 2850,1700 2935,1735 2900,1650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="1650" r="5" fill="red" />
+<circle cx="2935" cy="1665" r="5" fill="red" />
+<circle cx="2950" cy="1700" r="5" fill="red" />
+<circle cx="2935" cy="1735" r="5" fill="red" />
+<circle cx="2900" cy="1750" r="5" fill="red" />
+<circle cx="2865" cy="1735" r="5" fill="red" />
+<circle cx="2850" cy="1700" r="5" fill="red" />
+<circle cx="2865" cy="1665" r="5" fill="red" />
+<circle cx="2900" cy="1650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="1800" width="200" height="200"/><polyline points="100,1850 135,1865 100,1950 65,1865 65,1935 135,1935 50,1900 150,1900 100,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="1850" r="5" fill="red" />
+<circle cx="135" cy="1865" r="5" fill="red" />
+<circle cx="150" cy="1900" r="5" fill="red" />
+<circle cx="135" cy="1935" r="5" fill="red" />
+<circle cx="100" cy="1950" r="5" fill="red" />
+<circle cx="65" cy="1935" r="5" fill="red" />
+<circle cx="50" cy="1900" r="5" fill="red" />
+<circle cx="65" cy="1865" r="5" fill="red" />
+<circle cx="100" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="1800" width="200" height="200"/><polyline points="300,1850 335,1865 300,1950 265,1865 250,1900 350,1900 265,1935 335,1935 300,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="1850" r="5" fill="red" />
+<circle cx="335" cy="1865" r="5" fill="red" />
+<circle cx="350" cy="1900" r="5" fill="red" />
+<circle cx="335" cy="1935" r="5" fill="red" />
+<circle cx="300" cy="1950" r="5" fill="red" />
+<circle cx="265" cy="1935" r="5" fill="red" />
+<circle cx="250" cy="1900" r="5" fill="red" />
+<circle cx="265" cy="1865" r="5" fill="red" />
+<circle cx="300" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="1800" width="200" height="200"/><polyline points="500,1850 535,1865 500,1950 465,1865 450,1900 535,1935 465,1935 550,1900 500,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="1850" r="5" fill="red" />
+<circle cx="535" cy="1865" r="5" fill="red" />
+<circle cx="550" cy="1900" r="5" fill="red" />
+<circle cx="535" cy="1935" r="5" fill="red" />
+<circle cx="500" cy="1950" r="5" fill="red" />
+<circle cx="465" cy="1935" r="5" fill="red" />
+<circle cx="450" cy="1900" r="5" fill="red" />
+<circle cx="465" cy="1865" r="5" fill="red" />
+<circle cx="500" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="1800" width="200" height="200"/><polyline points="700,1850 735,1865 700,1950 750,1900 650,1900 665,1865 665,1935 735,1935 700,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="1850" r="5" fill="red" />
+<circle cx="735" cy="1865" r="5" fill="red" />
+<circle cx="750" cy="1900" r="5" fill="red" />
+<circle cx="735" cy="1935" r="5" fill="red" />
+<circle cx="700" cy="1950" r="5" fill="red" />
+<circle cx="665" cy="1935" r="5" fill="red" />
+<circle cx="650" cy="1900" r="5" fill="red" />
+<circle cx="665" cy="1865" r="5" fill="red" />
+<circle cx="700" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="1800" width="200" height="200"/><polyline points="900,1850 935,1865 900,1950 950,1900 850,1900 935,1935 865,1865 865,1935 900,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="1850" r="5" fill="red" />
+<circle cx="935" cy="1865" r="5" fill="red" />
+<circle cx="950" cy="1900" r="5" fill="red" />
+<circle cx="935" cy="1935" r="5" fill="red" />
+<circle cx="900" cy="1950" r="5" fill="red" />
+<circle cx="865" cy="1935" r="5" fill="red" />
+<circle cx="850" cy="1900" r="5" fill="red" />
+<circle cx="865" cy="1865" r="5" fill="red" />
+<circle cx="900" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="1800" width="200" height="200"/><polyline points="1100,1850 1135,1865 1100,1950 1150,1900 1050,1900 1065,1935 1065,1865 1135,1935 1100,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="1850" r="5" fill="red" />
+<circle cx="1135" cy="1865" r="5" fill="red" />
+<circle cx="1150" cy="1900" r="5" fill="red" />
+<circle cx="1135" cy="1935" r="5" fill="red" />
+<circle cx="1100" cy="1950" r="5" fill="red" />
+<circle cx="1065" cy="1935" r="5" fill="red" />
+<circle cx="1050" cy="1900" r="5" fill="red" />
+<circle cx="1065" cy="1865" r="5" fill="red" />
+<circle cx="1100" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="1800" width="200" height="200"/><polyline points="1300,1850 1335,1865 1300,1950 1350,1900 1265,1865 1335,1935 1250,1900 1265,1935 1300,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="1850" r="5" fill="red" />
+<circle cx="1335" cy="1865" r="5" fill="red" />
+<circle cx="1350" cy="1900" r="5" fill="red" />
+<circle cx="1335" cy="1935" r="5" fill="red" />
+<circle cx="1300" cy="1950" r="5" fill="red" />
+<circle cx="1265" cy="1935" r="5" fill="red" />
+<circle cx="1250" cy="1900" r="5" fill="red" />
+<circle cx="1265" cy="1865" r="5" fill="red" />
+<circle cx="1300" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="1800" width="200" height="200"/><polyline points="1500,1850 1535,1865 1500,1950 1550,1900 1465,1865 1465,1935 1450,1900 1535,1935 1500,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="1850" r="5" fill="red" />
+<circle cx="1535" cy="1865" r="5" fill="red" />
+<circle cx="1550" cy="1900" r="5" fill="red" />
+<circle cx="1535" cy="1935" r="5" fill="red" />
+<circle cx="1500" cy="1950" r="5" fill="red" />
+<circle cx="1465" cy="1935" r="5" fill="red" />
+<circle cx="1450" cy="1900" r="5" fill="red" />
+<circle cx="1465" cy="1865" r="5" fill="red" />
+<circle cx="1500" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="1800" width="200" height="200"/><polyline points="1700,1850 1735,1865 1700,1950 1735,1935 1665,1935 1665,1865 1650,1900 1750,1900 1700,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="1850" r="5" fill="red" />
+<circle cx="1735" cy="1865" r="5" fill="red" />
+<circle cx="1750" cy="1900" r="5" fill="red" />
+<circle cx="1735" cy="1935" r="5" fill="red" />
+<circle cx="1700" cy="1950" r="5" fill="red" />
+<circle cx="1665" cy="1935" r="5" fill="red" />
+<circle cx="1650" cy="1900" r="5" fill="red" />
+<circle cx="1665" cy="1865" r="5" fill="red" />
+<circle cx="1700" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="1800" width="200" height="200"/><polyline points="1900,1850 1935,1865 1900,1950 1935,1935 1850,1900 1865,1865 1865,1935 1950,1900 1900,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="1850" r="5" fill="red" />
+<circle cx="1935" cy="1865" r="5" fill="red" />
+<circle cx="1950" cy="1900" r="5" fill="red" />
+<circle cx="1935" cy="1935" r="5" fill="red" />
+<circle cx="1900" cy="1950" r="5" fill="red" />
+<circle cx="1865" cy="1935" r="5" fill="red" />
+<circle cx="1850" cy="1900" r="5" fill="red" />
+<circle cx="1865" cy="1865" r="5" fill="red" />
+<circle cx="1900" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="1800" width="200" height="200"/><polyline points="2100,1850 2135,1865 2100,1950 2135,1935 2050,1900 2065,1935 2065,1865 2150,1900 2100,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="1850" r="5" fill="red" />
+<circle cx="2135" cy="1865" r="5" fill="red" />
+<circle cx="2150" cy="1900" r="5" fill="red" />
+<circle cx="2135" cy="1935" r="5" fill="red" />
+<circle cx="2100" cy="1950" r="5" fill="red" />
+<circle cx="2065" cy="1935" r="5" fill="red" />
+<circle cx="2050" cy="1900" r="5" fill="red" />
+<circle cx="2065" cy="1865" r="5" fill="red" />
+<circle cx="2100" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="1800" width="200" height="200"/><polyline points="2300,1850 2335,1865 2300,1950 2335,1935 2265,1865 2350,1900 2250,1900 2265,1935 2300,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="1850" r="5" fill="red" />
+<circle cx="2335" cy="1865" r="5" fill="red" />
+<circle cx="2350" cy="1900" r="5" fill="red" />
+<circle cx="2335" cy="1935" r="5" fill="red" />
+<circle cx="2300" cy="1950" r="5" fill="red" />
+<circle cx="2265" cy="1935" r="5" fill="red" />
+<circle cx="2250" cy="1900" r="5" fill="red" />
+<circle cx="2265" cy="1865" r="5" fill="red" />
+<circle cx="2300" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="1800" width="200" height="200"/><polyline points="2500,1850 2535,1865 2500,1950 2535,1935 2465,1865 2465,1935 2450,1900 2550,1900 2500,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="1850" r="5" fill="red" />
+<circle cx="2535" cy="1865" r="5" fill="red" />
+<circle cx="2550" cy="1900" r="5" fill="red" />
+<circle cx="2535" cy="1935" r="5" fill="red" />
+<circle cx="2500" cy="1950" r="5" fill="red" />
+<circle cx="2465" cy="1935" r="5" fill="red" />
+<circle cx="2450" cy="1900" r="5" fill="red" />
+<circle cx="2465" cy="1865" r="5" fill="red" />
+<circle cx="2500" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="1800" width="200" height="200"/><polyline points="2700,1850 2735,1865 2665,1935 2650,1900 2750,1900 2735,1935 2665,1865 2700,1950 2700,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="1850" r="5" fill="red" />
+<circle cx="2735" cy="1865" r="5" fill="red" />
+<circle cx="2750" cy="1900" r="5" fill="red" />
+<circle cx="2735" cy="1935" r="5" fill="red" />
+<circle cx="2700" cy="1950" r="5" fill="red" />
+<circle cx="2665" cy="1935" r="5" fill="red" />
+<circle cx="2650" cy="1900" r="5" fill="red" />
+<circle cx="2665" cy="1865" r="5" fill="red" />
+<circle cx="2700" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="1800" width="200" height="200"/><polyline points="2900,1850 2935,1865 2865,1935 2850,1900 2950,1900 2900,1950 2865,1865 2935,1935 2900,1850" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="1850" r="5" fill="red" />
+<circle cx="2935" cy="1865" r="5" fill="red" />
+<circle cx="2950" cy="1900" r="5" fill="red" />
+<circle cx="2935" cy="1935" r="5" fill="red" />
+<circle cx="2900" cy="1950" r="5" fill="red" />
+<circle cx="2865" cy="1935" r="5" fill="red" />
+<circle cx="2850" cy="1900" r="5" fill="red" />
+<circle cx="2865" cy="1865" r="5" fill="red" />
+<circle cx="2900" cy="1850" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="2000" width="200" height="200"/><polyline points="100,2050 135,2065 65,2135 50,2100 135,2135 65,2065 100,2150 150,2100 100,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="2050" r="5" fill="red" />
+<circle cx="135" cy="2065" r="5" fill="red" />
+<circle cx="150" cy="2100" r="5" fill="red" />
+<circle cx="135" cy="2135" r="5" fill="red" />
+<circle cx="100" cy="2150" r="5" fill="red" />
+<circle cx="65" cy="2135" r="5" fill="red" />
+<circle cx="50" cy="2100" r="5" fill="red" />
+<circle cx="65" cy="2065" r="5" fill="red" />
+<circle cx="100" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="2000" width="200" height="200"/><polyline points="300,2050 335,2065 265,2135 265,2065 350,2100 300,2150 250,2100 335,2135 300,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="2050" r="5" fill="red" />
+<circle cx="335" cy="2065" r="5" fill="red" />
+<circle cx="350" cy="2100" r="5" fill="red" />
+<circle cx="335" cy="2135" r="5" fill="red" />
+<circle cx="300" cy="2150" r="5" fill="red" />
+<circle cx="265" cy="2135" r="5" fill="red" />
+<circle cx="250" cy="2100" r="5" fill="red" />
+<circle cx="265" cy="2065" r="5" fill="red" />
+<circle cx="300" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="2000" width="200" height="200"/><polyline points="500,2050 535,2065 465,2135 465,2065 535,2135 450,2100 550,2100 500,2150 500,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="2050" r="5" fill="red" />
+<circle cx="535" cy="2065" r="5" fill="red" />
+<circle cx="550" cy="2100" r="5" fill="red" />
+<circle cx="535" cy="2135" r="5" fill="red" />
+<circle cx="500" cy="2150" r="5" fill="red" />
+<circle cx="465" cy="2135" r="5" fill="red" />
+<circle cx="450" cy="2100" r="5" fill="red" />
+<circle cx="465" cy="2065" r="5" fill="red" />
+<circle cx="500" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="2000" width="200" height="200"/><polyline points="700,2050 735,2065 665,2135 665,2065 735,2135 650,2100 700,2150 750,2100 700,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="2050" r="5" fill="red" />
+<circle cx="735" cy="2065" r="5" fill="red" />
+<circle cx="750" cy="2100" r="5" fill="red" />
+<circle cx="735" cy="2135" r="5" fill="red" />
+<circle cx="700" cy="2150" r="5" fill="red" />
+<circle cx="665" cy="2135" r="5" fill="red" />
+<circle cx="650" cy="2100" r="5" fill="red" />
+<circle cx="665" cy="2065" r="5" fill="red" />
+<circle cx="700" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="2000" width="200" height="200"/><polyline points="900,2050 935,2065 865,2135 865,2065 935,2135 950,2100 850,2100 900,2150 900,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="2050" r="5" fill="red" />
+<circle cx="935" cy="2065" r="5" fill="red" />
+<circle cx="950" cy="2100" r="5" fill="red" />
+<circle cx="935" cy="2135" r="5" fill="red" />
+<circle cx="900" cy="2150" r="5" fill="red" />
+<circle cx="865" cy="2135" r="5" fill="red" />
+<circle cx="850" cy="2100" r="5" fill="red" />
+<circle cx="865" cy="2065" r="5" fill="red" />
+<circle cx="900" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="2000" width="200" height="200"/><polyline points="1100,2050 1135,2065 1065,2135 1065,2065 1100,2150 1050,2100 1150,2100 1135,2135 1100,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="2050" r="5" fill="red" />
+<circle cx="1135" cy="2065" r="5" fill="red" />
+<circle cx="1150" cy="2100" r="5" fill="red" />
+<circle cx="1135" cy="2135" r="5" fill="red" />
+<circle cx="1100" cy="2150" r="5" fill="red" />
+<circle cx="1065" cy="2135" r="5" fill="red" />
+<circle cx="1050" cy="2100" r="5" fill="red" />
+<circle cx="1065" cy="2065" r="5" fill="red" />
+<circle cx="1100" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="2000" width="200" height="200"/><polyline points="1300,2050 1335,2065 1265,2135 1265,2065 1300,2150 1350,2100 1250,2100 1335,2135 1300,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="2050" r="5" fill="red" />
+<circle cx="1335" cy="2065" r="5" fill="red" />
+<circle cx="1350" cy="2100" r="5" fill="red" />
+<circle cx="1335" cy="2135" r="5" fill="red" />
+<circle cx="1300" cy="2150" r="5" fill="red" />
+<circle cx="1265" cy="2135" r="5" fill="red" />
+<circle cx="1250" cy="2100" r="5" fill="red" />
+<circle cx="1265" cy="2065" r="5" fill="red" />
+<circle cx="1300" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="2000" width="200" height="200"/><polyline points="1500,2050 1535,2065 1465,2135 1550,2100 1450,2100 1535,2135 1465,2065 1500,2150 1500,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="2050" r="5" fill="red" />
+<circle cx="1535" cy="2065" r="5" fill="red" />
+<circle cx="1550" cy="2100" r="5" fill="red" />
+<circle cx="1535" cy="2135" r="5" fill="red" />
+<circle cx="1500" cy="2150" r="5" fill="red" />
+<circle cx="1465" cy="2135" r="5" fill="red" />
+<circle cx="1450" cy="2100" r="5" fill="red" />
+<circle cx="1465" cy="2065" r="5" fill="red" />
+<circle cx="1500" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="2000" width="200" height="200"/><polyline points="1700,2050 1735,2065 1665,2135 1750,2100 1650,2100 1700,2150 1665,2065 1735,2135 1700,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="2050" r="5" fill="red" />
+<circle cx="1735" cy="2065" r="5" fill="red" />
+<circle cx="1750" cy="2100" r="5" fill="red" />
+<circle cx="1735" cy="2135" r="5" fill="red" />
+<circle cx="1700" cy="2150" r="5" fill="red" />
+<circle cx="1665" cy="2135" r="5" fill="red" />
+<circle cx="1650" cy="2100" r="5" fill="red" />
+<circle cx="1665" cy="2065" r="5" fill="red" />
+<circle cx="1700" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="2000" width="200" height="200"/><polyline points="1900,2050 1935,2065 1865,2135 1950,2100 1865,2065 1935,2135 1850,2100 1900,2150 1900,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="2050" r="5" fill="red" />
+<circle cx="1935" cy="2065" r="5" fill="red" />
+<circle cx="1950" cy="2100" r="5" fill="red" />
+<circle cx="1935" cy="2135" r="5" fill="red" />
+<circle cx="1900" cy="2150" r="5" fill="red" />
+<circle cx="1865" cy="2135" r="5" fill="red" />
+<circle cx="1850" cy="2100" r="5" fill="red" />
+<circle cx="1865" cy="2065" r="5" fill="red" />
+<circle cx="1900" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="2000" width="200" height="200"/><polyline points="2100,2050 2135,2065 2065,2135 2150,2100 2065,2065 2100,2150 2050,2100 2135,2135 2100,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="2050" r="5" fill="red" />
+<circle cx="2135" cy="2065" r="5" fill="red" />
+<circle cx="2150" cy="2100" r="5" fill="red" />
+<circle cx="2135" cy="2135" r="5" fill="red" />
+<circle cx="2100" cy="2150" r="5" fill="red" />
+<circle cx="2065" cy="2135" r="5" fill="red" />
+<circle cx="2050" cy="2100" r="5" fill="red" />
+<circle cx="2065" cy="2065" r="5" fill="red" />
+<circle cx="2100" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="2000" width="200" height="200"/><polyline points="2300,2050 2335,2065 2265,2135 2335,2135 2250,2100 2300,2150 2265,2065 2350,2100 2300,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="2050" r="5" fill="red" />
+<circle cx="2335" cy="2065" r="5" fill="red" />
+<circle cx="2350" cy="2100" r="5" fill="red" />
+<circle cx="2335" cy="2135" r="5" fill="red" />
+<circle cx="2300" cy="2150" r="5" fill="red" />
+<circle cx="2265" cy="2135" r="5" fill="red" />
+<circle cx="2250" cy="2100" r="5" fill="red" />
+<circle cx="2265" cy="2065" r="5" fill="red" />
+<circle cx="2300" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="2000" width="200" height="200"/><polyline points="2500,2050 2535,2065 2465,2135 2535,2135 2465,2065 2550,2100 2450,2100 2500,2150 2500,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="2050" r="5" fill="red" />
+<circle cx="2535" cy="2065" r="5" fill="red" />
+<circle cx="2550" cy="2100" r="5" fill="red" />
+<circle cx="2535" cy="2135" r="5" fill="red" />
+<circle cx="2500" cy="2150" r="5" fill="red" />
+<circle cx="2465" cy="2135" r="5" fill="red" />
+<circle cx="2450" cy="2100" r="5" fill="red" />
+<circle cx="2465" cy="2065" r="5" fill="red" />
+<circle cx="2500" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="2000" width="200" height="200"/><polyline points="2700,2050 2735,2065 2665,2135 2735,2135 2665,2065 2700,2150 2650,2100 2750,2100 2700,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="2050" r="5" fill="red" />
+<circle cx="2735" cy="2065" r="5" fill="red" />
+<circle cx="2750" cy="2100" r="5" fill="red" />
+<circle cx="2735" cy="2135" r="5" fill="red" />
+<circle cx="2700" cy="2150" r="5" fill="red" />
+<circle cx="2665" cy="2135" r="5" fill="red" />
+<circle cx="2650" cy="2100" r="5" fill="red" />
+<circle cx="2665" cy="2065" r="5" fill="red" />
+<circle cx="2700" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="2000" width="200" height="200"/><polyline points="2900,2050 2935,2065 2865,2135 2900,2150 2850,2100 2950,2100 2865,2065 2935,2135 2900,2050" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="2050" r="5" fill="red" />
+<circle cx="2935" cy="2065" r="5" fill="red" />
+<circle cx="2950" cy="2100" r="5" fill="red" />
+<circle cx="2935" cy="2135" r="5" fill="red" />
+<circle cx="2900" cy="2150" r="5" fill="red" />
+<circle cx="2865" cy="2135" r="5" fill="red" />
+<circle cx="2850" cy="2100" r="5" fill="red" />
+<circle cx="2865" cy="2065" r="5" fill="red" />
+<circle cx="2900" cy="2050" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="2200" width="200" height="200"/><polyline points="100,2250 135,2265 65,2335 100,2350 50,2300 135,2335 65,2265 150,2300 100,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="2250" r="5" fill="red" />
+<circle cx="135" cy="2265" r="5" fill="red" />
+<circle cx="150" cy="2300" r="5" fill="red" />
+<circle cx="135" cy="2335" r="5" fill="red" />
+<circle cx="100" cy="2350" r="5" fill="red" />
+<circle cx="65" cy="2335" r="5" fill="red" />
+<circle cx="50" cy="2300" r="5" fill="red" />
+<circle cx="65" cy="2265" r="5" fill="red" />
+<circle cx="100" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="2200" width="200" height="200"/><polyline points="300,2250 335,2265 265,2335 300,2350 265,2265 350,2300 250,2300 335,2335 300,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="2250" r="5" fill="red" />
+<circle cx="335" cy="2265" r="5" fill="red" />
+<circle cx="350" cy="2300" r="5" fill="red" />
+<circle cx="335" cy="2335" r="5" fill="red" />
+<circle cx="300" cy="2350" r="5" fill="red" />
+<circle cx="265" cy="2335" r="5" fill="red" />
+<circle cx="250" cy="2300" r="5" fill="red" />
+<circle cx="265" cy="2265" r="5" fill="red" />
+<circle cx="300" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="2200" width="200" height="200"/><polyline points="500,2250 535,2265 465,2335 500,2350 465,2265 450,2300 550,2300 535,2335 500,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="2250" r="5" fill="red" />
+<circle cx="535" cy="2265" r="5" fill="red" />
+<circle cx="550" cy="2300" r="5" fill="red" />
+<circle cx="535" cy="2335" r="5" fill="red" />
+<circle cx="500" cy="2350" r="5" fill="red" />
+<circle cx="465" cy="2335" r="5" fill="red" />
+<circle cx="450" cy="2300" r="5" fill="red" />
+<circle cx="465" cy="2265" r="5" fill="red" />
+<circle cx="500" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="2200" width="200" height="200"/><polyline points="700,2250 735,2265 650,2300 665,2265 700,2350 665,2335 750,2300 735,2335 700,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="2250" r="5" fill="red" />
+<circle cx="735" cy="2265" r="5" fill="red" />
+<circle cx="750" cy="2300" r="5" fill="red" />
+<circle cx="735" cy="2335" r="5" fill="red" />
+<circle cx="700" cy="2350" r="5" fill="red" />
+<circle cx="665" cy="2335" r="5" fill="red" />
+<circle cx="650" cy="2300" r="5" fill="red" />
+<circle cx="665" cy="2265" r="5" fill="red" />
+<circle cx="700" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="2200" width="200" height="200"/><polyline points="900,2250 935,2265 850,2300 865,2265 900,2350 950,2300 865,2335 935,2335 900,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="2250" r="5" fill="red" />
+<circle cx="935" cy="2265" r="5" fill="red" />
+<circle cx="950" cy="2300" r="5" fill="red" />
+<circle cx="935" cy="2335" r="5" fill="red" />
+<circle cx="900" cy="2350" r="5" fill="red" />
+<circle cx="865" cy="2335" r="5" fill="red" />
+<circle cx="850" cy="2300" r="5" fill="red" />
+<circle cx="865" cy="2265" r="5" fill="red" />
+<circle cx="900" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="2200" width="200" height="200"/><polyline points="1100,2250 1135,2265 1050,2300 1065,2265 1065,2335 1135,2335 1100,2350 1150,2300 1100,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="2250" r="5" fill="red" />
+<circle cx="1135" cy="2265" r="5" fill="red" />
+<circle cx="1150" cy="2300" r="5" fill="red" />
+<circle cx="1135" cy="2335" r="5" fill="red" />
+<circle cx="1100" cy="2350" r="5" fill="red" />
+<circle cx="1065" cy="2335" r="5" fill="red" />
+<circle cx="1050" cy="2300" r="5" fill="red" />
+<circle cx="1065" cy="2265" r="5" fill="red" />
+<circle cx="1100" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="2200" width="200" height="200"/><polyline points="1300,2250 1335,2265 1250,2300 1350,2300 1300,2350 1265,2265 1265,2335 1335,2335 1300,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="2250" r="5" fill="red" />
+<circle cx="1335" cy="2265" r="5" fill="red" />
+<circle cx="1350" cy="2300" r="5" fill="red" />
+<circle cx="1335" cy="2335" r="5" fill="red" />
+<circle cx="1300" cy="2350" r="5" fill="red" />
+<circle cx="1265" cy="2335" r="5" fill="red" />
+<circle cx="1250" cy="2300" r="5" fill="red" />
+<circle cx="1265" cy="2265" r="5" fill="red" />
+<circle cx="1300" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="2200" width="200" height="200"/><polyline points="1500,2250 1535,2265 1450,2300 1550,2300 1465,2335 1500,2350 1465,2265 1535,2335 1500,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="2250" r="5" fill="red" />
+<circle cx="1535" cy="2265" r="5" fill="red" />
+<circle cx="1550" cy="2300" r="5" fill="red" />
+<circle cx="1535" cy="2335" r="5" fill="red" />
+<circle cx="1500" cy="2350" r="5" fill="red" />
+<circle cx="1465" cy="2335" r="5" fill="red" />
+<circle cx="1450" cy="2300" r="5" fill="red" />
+<circle cx="1465" cy="2265" r="5" fill="red" />
+<circle cx="1500" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="2200" width="200" height="200"/><polyline points="1700,2250 1735,2265 1650,2300 1750,2300 1665,2265 1700,2350 1665,2335 1735,2335 1700,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="2250" r="5" fill="red" />
+<circle cx="1735" cy="2265" r="5" fill="red" />
+<circle cx="1750" cy="2300" r="5" fill="red" />
+<circle cx="1735" cy="2335" r="5" fill="red" />
+<circle cx="1700" cy="2350" r="5" fill="red" />
+<circle cx="1665" cy="2335" r="5" fill="red" />
+<circle cx="1650" cy="2300" r="5" fill="red" />
+<circle cx="1665" cy="2265" r="5" fill="red" />
+<circle cx="1700" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="2200" width="200" height="200"/><polyline points="1900,2250 1935,2265 1850,2300 1935,2335 1865,2335 1865,2265 1900,2350 1950,2300 1900,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="2250" r="5" fill="red" />
+<circle cx="1935" cy="2265" r="5" fill="red" />
+<circle cx="1950" cy="2300" r="5" fill="red" />
+<circle cx="1935" cy="2335" r="5" fill="red" />
+<circle cx="1900" cy="2350" r="5" fill="red" />
+<circle cx="1865" cy="2335" r="5" fill="red" />
+<circle cx="1850" cy="2300" r="5" fill="red" />
+<circle cx="1865" cy="2265" r="5" fill="red" />
+<circle cx="1900" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="2200" width="200" height="200"/><polyline points="2100,2250 2135,2265 2050,2300 2135,2335 2065,2335 2100,2350 2065,2265 2150,2300 2100,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="2250" r="5" fill="red" />
+<circle cx="2135" cy="2265" r="5" fill="red" />
+<circle cx="2150" cy="2300" r="5" fill="red" />
+<circle cx="2135" cy="2335" r="5" fill="red" />
+<circle cx="2100" cy="2350" r="5" fill="red" />
+<circle cx="2065" cy="2335" r="5" fill="red" />
+<circle cx="2050" cy="2300" r="5" fill="red" />
+<circle cx="2065" cy="2265" r="5" fill="red" />
+<circle cx="2100" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="2200" width="200" height="200"/><polyline points="2300,2250 2335,2265 2250,2300 2300,2350 2265,2335 2335,2335 2265,2265 2350,2300 2300,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="2250" r="5" fill="red" />
+<circle cx="2335" cy="2265" r="5" fill="red" />
+<circle cx="2350" cy="2300" r="5" fill="red" />
+<circle cx="2335" cy="2335" r="5" fill="red" />
+<circle cx="2300" cy="2350" r="5" fill="red" />
+<circle cx="2265" cy="2335" r="5" fill="red" />
+<circle cx="2250" cy="2300" r="5" fill="red" />
+<circle cx="2265" cy="2265" r="5" fill="red" />
+<circle cx="2300" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="2200" width="200" height="200"/><polyline points="2500,2250 2535,2265 2450,2300 2500,2350 2465,2265 2550,2300 2465,2335 2535,2335 2500,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="2250" r="5" fill="red" />
+<circle cx="2535" cy="2265" r="5" fill="red" />
+<circle cx="2550" cy="2300" r="5" fill="red" />
+<circle cx="2535" cy="2335" r="5" fill="red" />
+<circle cx="2500" cy="2350" r="5" fill="red" />
+<circle cx="2465" cy="2335" r="5" fill="red" />
+<circle cx="2450" cy="2300" r="5" fill="red" />
+<circle cx="2465" cy="2265" r="5" fill="red" />
+<circle cx="2500" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="2200" width="200" height="200"/><polyline points="2700,2250 2735,2265 2650,2300 2700,2350 2665,2265 2735,2335 2665,2335 2750,2300 2700,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="2250" r="5" fill="red" />
+<circle cx="2735" cy="2265" r="5" fill="red" />
+<circle cx="2750" cy="2300" r="5" fill="red" />
+<circle cx="2735" cy="2335" r="5" fill="red" />
+<circle cx="2700" cy="2350" r="5" fill="red" />
+<circle cx="2665" cy="2335" r="5" fill="red" />
+<circle cx="2650" cy="2300" r="5" fill="red" />
+<circle cx="2665" cy="2265" r="5" fill="red" />
+<circle cx="2700" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="2200" width="200" height="200"/><polyline points="2900,2250 2935,2265 2850,2300 2900,2350 2950,2300 2865,2265 2865,2335 2935,2335 2900,2250" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="2250" r="5" fill="red" />
+<circle cx="2935" cy="2265" r="5" fill="red" />
+<circle cx="2950" cy="2300" r="5" fill="red" />
+<circle cx="2935" cy="2335" r="5" fill="red" />
+<circle cx="2900" cy="2350" r="5" fill="red" />
+<circle cx="2865" cy="2335" r="5" fill="red" />
+<circle cx="2850" cy="2300" r="5" fill="red" />
+<circle cx="2865" cy="2265" r="5" fill="red" />
+<circle cx="2900" cy="2250" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="2400" width="200" height="200"/><polyline points="100,2450 135,2465 65,2465 135,2535 65,2535 100,2550 50,2500 150,2500 100,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="2450" r="5" fill="red" />
+<circle cx="135" cy="2465" r="5" fill="red" />
+<circle cx="150" cy="2500" r="5" fill="red" />
+<circle cx="135" cy="2535" r="5" fill="red" />
+<circle cx="100" cy="2550" r="5" fill="red" />
+<circle cx="65" cy="2535" r="5" fill="red" />
+<circle cx="50" cy="2500" r="5" fill="red" />
+<circle cx="65" cy="2465" r="5" fill="red" />
+<circle cx="100" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="2400" width="200" height="200"/><polyline points="300,2450 335,2465 265,2465 300,2550 250,2500 335,2535 265,2535 350,2500 300,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="2450" r="5" fill="red" />
+<circle cx="335" cy="2465" r="5" fill="red" />
+<circle cx="350" cy="2500" r="5" fill="red" />
+<circle cx="335" cy="2535" r="5" fill="red" />
+<circle cx="300" cy="2550" r="5" fill="red" />
+<circle cx="265" cy="2535" r="5" fill="red" />
+<circle cx="250" cy="2500" r="5" fill="red" />
+<circle cx="265" cy="2465" r="5" fill="red" />
+<circle cx="300" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="2400" width="200" height="200"/><polyline points="500,2450 535,2465 465,2465 465,2535 535,2535 450,2500 500,2550 550,2500 500,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="2450" r="5" fill="red" />
+<circle cx="535" cy="2465" r="5" fill="red" />
+<circle cx="550" cy="2500" r="5" fill="red" />
+<circle cx="535" cy="2535" r="5" fill="red" />
+<circle cx="500" cy="2550" r="5" fill="red" />
+<circle cx="465" cy="2535" r="5" fill="red" />
+<circle cx="450" cy="2500" r="5" fill="red" />
+<circle cx="465" cy="2465" r="5" fill="red" />
+<circle cx="500" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="2400" width="200" height="200"/><polyline points="700,2450 750,2500 700,2550 650,2500 735,2465 735,2535 665,2465 665,2535 700,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="2450" r="5" fill="red" />
+<circle cx="735" cy="2465" r="5" fill="red" />
+<circle cx="750" cy="2500" r="5" fill="red" />
+<circle cx="735" cy="2535" r="5" fill="red" />
+<circle cx="700" cy="2550" r="5" fill="red" />
+<circle cx="665" cy="2535" r="5" fill="red" />
+<circle cx="650" cy="2500" r="5" fill="red" />
+<circle cx="665" cy="2465" r="5" fill="red" />
+<circle cx="700" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="2400" width="200" height="200"/><polyline points="900,2450 950,2500 900,2550 850,2500 935,2465 865,2535 865,2465 935,2535 900,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="2450" r="5" fill="red" />
+<circle cx="935" cy="2465" r="5" fill="red" />
+<circle cx="950" cy="2500" r="5" fill="red" />
+<circle cx="935" cy="2535" r="5" fill="red" />
+<circle cx="900" cy="2550" r="5" fill="red" />
+<circle cx="865" cy="2535" r="5" fill="red" />
+<circle cx="850" cy="2500" r="5" fill="red" />
+<circle cx="865" cy="2465" r="5" fill="red" />
+<circle cx="900" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="2400" width="200" height="200"/><polyline points="1100,2450 1150,2500 1100,2550 1050,2500 1135,2465 1065,2465 1065,2535 1135,2535 1100,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="2450" r="5" fill="red" />
+<circle cx="1135" cy="2465" r="5" fill="red" />
+<circle cx="1150" cy="2500" r="5" fill="red" />
+<circle cx="1135" cy="2535" r="5" fill="red" />
+<circle cx="1100" cy="2550" r="5" fill="red" />
+<circle cx="1065" cy="2535" r="5" fill="red" />
+<circle cx="1050" cy="2500" r="5" fill="red" />
+<circle cx="1065" cy="2465" r="5" fill="red" />
+<circle cx="1100" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="2400" width="200" height="200"/><polyline points="1300,2450 1350,2500 1300,2550 1265,2465 1335,2465 1250,2500 1335,2535 1265,2535 1300,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="2450" r="5" fill="red" />
+<circle cx="1335" cy="2465" r="5" fill="red" />
+<circle cx="1350" cy="2500" r="5" fill="red" />
+<circle cx="1335" cy="2535" r="5" fill="red" />
+<circle cx="1300" cy="2550" r="5" fill="red" />
+<circle cx="1265" cy="2535" r="5" fill="red" />
+<circle cx="1250" cy="2500" r="5" fill="red" />
+<circle cx="1265" cy="2465" r="5" fill="red" />
+<circle cx="1300" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1400" y="2400" width="200" height="200"/><polyline points="1500,2450 1550,2500 1500,2550 1465,2465 1535,2535 1450,2500 1535,2465 1465,2535 1500,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1500" cy="2450" r="5" fill="red" />
+<circle cx="1535" cy="2465" r="5" fill="red" />
+<circle cx="1550" cy="2500" r="5" fill="red" />
+<circle cx="1535" cy="2535" r="5" fill="red" />
+<circle cx="1500" cy="2550" r="5" fill="red" />
+<circle cx="1465" cy="2535" r="5" fill="red" />
+<circle cx="1450" cy="2500" r="5" fill="red" />
+<circle cx="1465" cy="2465" r="5" fill="red" />
+<circle cx="1500" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1600" y="2400" width="200" height="200"/><polyline points="1700,2450 1750,2500 1700,2550 1665,2465 1665,2535 1735,2465 1650,2500 1735,2535 1700,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1700" cy="2450" r="5" fill="red" />
+<circle cx="1735" cy="2465" r="5" fill="red" />
+<circle cx="1750" cy="2500" r="5" fill="red" />
+<circle cx="1735" cy="2535" r="5" fill="red" />
+<circle cx="1700" cy="2550" r="5" fill="red" />
+<circle cx="1665" cy="2535" r="5" fill="red" />
+<circle cx="1650" cy="2500" r="5" fill="red" />
+<circle cx="1665" cy="2465" r="5" fill="red" />
+<circle cx="1700" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1800" y="2400" width="200" height="200"/><polyline points="1900,2450 1950,2500 1865,2535 1865,2465 1935,2535 1850,2500 1935,2465 1900,2550 1900,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1900" cy="2450" r="5" fill="red" />
+<circle cx="1935" cy="2465" r="5" fill="red" />
+<circle cx="1950" cy="2500" r="5" fill="red" />
+<circle cx="1935" cy="2535" r="5" fill="red" />
+<circle cx="1900" cy="2550" r="5" fill="red" />
+<circle cx="1865" cy="2535" r="5" fill="red" />
+<circle cx="1850" cy="2500" r="5" fill="red" />
+<circle cx="1865" cy="2465" r="5" fill="red" />
+<circle cx="1900" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2000" y="2400" width="200" height="200"/><polyline points="2100,2450 2150,2500 2065,2535 2065,2465 2135,2535 2135,2465 2050,2500 2100,2550 2100,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2100" cy="2450" r="5" fill="red" />
+<circle cx="2135" cy="2465" r="5" fill="red" />
+<circle cx="2150" cy="2500" r="5" fill="red" />
+<circle cx="2135" cy="2535" r="5" fill="red" />
+<circle cx="2100" cy="2550" r="5" fill="red" />
+<circle cx="2065" cy="2535" r="5" fill="red" />
+<circle cx="2050" cy="2500" r="5" fill="red" />
+<circle cx="2065" cy="2465" r="5" fill="red" />
+<circle cx="2100" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2200" y="2400" width="200" height="200"/><polyline points="2300,2450 2350,2500 2265,2535 2265,2465 2300,2550 2250,2500 2335,2465 2335,2535 2300,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2300" cy="2450" r="5" fill="red" />
+<circle cx="2335" cy="2465" r="5" fill="red" />
+<circle cx="2350" cy="2500" r="5" fill="red" />
+<circle cx="2335" cy="2535" r="5" fill="red" />
+<circle cx="2300" cy="2550" r="5" fill="red" />
+<circle cx="2265" cy="2535" r="5" fill="red" />
+<circle cx="2250" cy="2500" r="5" fill="red" />
+<circle cx="2265" cy="2465" r="5" fill="red" />
+<circle cx="2300" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2400" y="2400" width="200" height="200"/><polyline points="2500,2450 2550,2500 2465,2535 2465,2465 2500,2550 2535,2465 2450,2500 2535,2535 2500,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2500" cy="2450" r="5" fill="red" />
+<circle cx="2535" cy="2465" r="5" fill="red" />
+<circle cx="2550" cy="2500" r="5" fill="red" />
+<circle cx="2535" cy="2535" r="5" fill="red" />
+<circle cx="2500" cy="2550" r="5" fill="red" />
+<circle cx="2465" cy="2535" r="5" fill="red" />
+<circle cx="2450" cy="2500" r="5" fill="red" />
+<circle cx="2465" cy="2465" r="5" fill="red" />
+<circle cx="2500" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2600" y="2400" width="200" height="200"/><polyline points="2700,2450 2750,2500 2665,2535 2735,2465 2650,2500 2735,2535 2665,2465 2700,2550 2700,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2700" cy="2450" r="5" fill="red" />
+<circle cx="2735" cy="2465" r="5" fill="red" />
+<circle cx="2750" cy="2500" r="5" fill="red" />
+<circle cx="2735" cy="2535" r="5" fill="red" />
+<circle cx="2700" cy="2550" r="5" fill="red" />
+<circle cx="2665" cy="2535" r="5" fill="red" />
+<circle cx="2650" cy="2500" r="5" fill="red" />
+<circle cx="2665" cy="2465" r="5" fill="red" />
+<circle cx="2700" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="2800" y="2400" width="200" height="200"/><polyline points="2900,2450 2950,2500 2865,2535 2935,2465 2850,2500 2900,2550 2865,2465 2935,2535 2900,2450" stroke="black" stroke-width="3" fill="none" />
+<circle cx="2900" cy="2450" r="5" fill="red" />
+<circle cx="2935" cy="2465" r="5" fill="red" />
+<circle cx="2950" cy="2500" r="5" fill="red" />
+<circle cx="2935" cy="2535" r="5" fill="red" />
+<circle cx="2900" cy="2550" r="5" fill="red" />
+<circle cx="2865" cy="2535" r="5" fill="red" />
+<circle cx="2850" cy="2500" r="5" fill="red" />
+<circle cx="2865" cy="2465" r="5" fill="red" />
+<circle cx="2900" cy="2450" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="0" y="2600" width="200" height="200"/><polyline points="100,2650 150,2700 65,2735 135,2665 65,2665 135,2735 50,2700 100,2750 100,2650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="100" cy="2650" r="5" fill="red" />
+<circle cx="135" cy="2665" r="5" fill="red" />
+<circle cx="150" cy="2700" r="5" fill="red" />
+<circle cx="135" cy="2735" r="5" fill="red" />
+<circle cx="100" cy="2750" r="5" fill="red" />
+<circle cx="65" cy="2735" r="5" fill="red" />
+<circle cx="50" cy="2700" r="5" fill="red" />
+<circle cx="65" cy="2665" r="5" fill="red" />
+<circle cx="100" cy="2650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="200" y="2600" width="200" height="200"/><polyline points="300,2650 350,2700 265,2735 335,2665 265,2665 300,2750 250,2700 335,2735 300,2650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="300" cy="2650" r="5" fill="red" />
+<circle cx="335" cy="2665" r="5" fill="red" />
+<circle cx="350" cy="2700" r="5" fill="red" />
+<circle cx="335" cy="2735" r="5" fill="red" />
+<circle cx="300" cy="2750" r="5" fill="red" />
+<circle cx="265" cy="2735" r="5" fill="red" />
+<circle cx="250" cy="2700" r="5" fill="red" />
+<circle cx="265" cy="2665" r="5" fill="red" />
+<circle cx="300" cy="2650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="400" y="2600" width="200" height="200"/><polyline points="500,2650 550,2700 465,2735 535,2735 465,2665 535,2665 450,2700 500,2750 500,2650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="500" cy="2650" r="5" fill="red" />
+<circle cx="535" cy="2665" r="5" fill="red" />
+<circle cx="550" cy="2700" r="5" fill="red" />
+<circle cx="535" cy="2735" r="5" fill="red" />
+<circle cx="500" cy="2750" r="5" fill="red" />
+<circle cx="465" cy="2735" r="5" fill="red" />
+<circle cx="450" cy="2700" r="5" fill="red" />
+<circle cx="465" cy="2665" r="5" fill="red" />
+<circle cx="500" cy="2650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="600" y="2600" width="200" height="200"/><polyline points="700,2650 750,2700 650,2700 735,2665 665,2735 735,2735 665,2665 700,2750 700,2650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="700" cy="2650" r="5" fill="red" />
+<circle cx="735" cy="2665" r="5" fill="red" />
+<circle cx="750" cy="2700" r="5" fill="red" />
+<circle cx="735" cy="2735" r="5" fill="red" />
+<circle cx="700" cy="2750" r="5" fill="red" />
+<circle cx="665" cy="2735" r="5" fill="red" />
+<circle cx="650" cy="2700" r="5" fill="red" />
+<circle cx="665" cy="2665" r="5" fill="red" />
+<circle cx="700" cy="2650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="800" y="2600" width="200" height="200"/><polyline points="900,2650 950,2700 850,2700 900,2750 865,2665 865,2735 935,2665 935,2735 900,2650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="900" cy="2650" r="5" fill="red" />
+<circle cx="935" cy="2665" r="5" fill="red" />
+<circle cx="950" cy="2700" r="5" fill="red" />
+<circle cx="935" cy="2735" r="5" fill="red" />
+<circle cx="900" cy="2750" r="5" fill="red" />
+<circle cx="865" cy="2735" r="5" fill="red" />
+<circle cx="850" cy="2700" r="5" fill="red" />
+<circle cx="865" cy="2665" r="5" fill="red" />
+<circle cx="900" cy="2650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1000" y="2600" width="200" height="200"/><polyline points="1100,2650 1135,2735 1050,2700 1135,2665 1100,2750 1065,2665 1150,2700 1065,2735 1100,2650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1100" cy="2650" r="5" fill="red" />
+<circle cx="1135" cy="2665" r="5" fill="red" />
+<circle cx="1150" cy="2700" r="5" fill="red" />
+<circle cx="1135" cy="2735" r="5" fill="red" />
+<circle cx="1100" cy="2750" r="5" fill="red" />
+<circle cx="1065" cy="2735" r="5" fill="red" />
+<circle cx="1050" cy="2700" r="5" fill="red" />
+<circle cx="1065" cy="2665" r="5" fill="red" />
+<circle cx="1100" cy="2650" r="3" fill="white" />
+<rect fill="#fff" stroke="#000" x="1200" y="2600" width="200" height="200"/><polyline points="1300,2650 1335,2735 1250,2700 1335,2665 1265,2735 1350,2700 1265,2665 1300,2750 1300,2650" stroke="black" stroke-width="3" fill="none" />
+<circle cx="1300" cy="2650" r="5" fill="red" />
+<circle cx="1335" cy="2665" r="5" fill="red" />
+<circle cx="1350" cy="2700" r="5" fill="red" />
+<circle cx="1335" cy="2735" r="5" fill="red" />
+<circle cx="1300" cy="2750" r="5" fill="red" />
+<circle cx="1265" cy="2735" r="5" fill="red" />
+<circle cx="1250" cy="2700" r="5" fill="red" />
+<circle cx="1265" cy="2665" r="5" fill="red" />
+<circle cx="1300" cy="2650" r="3" fill="white" />
+</svg>
