@@ -107,7 +107,6 @@ impl PolyPath {
 pub fn generate_possibility(perm: i32, n: i32) -> Vec<i32> {
     let mut points: Vec<i32> = Vec::from_iter((1..n).into_iter());
     let mut visits: Vec<i32> = vec![];
-    let mut result: Vec<i32> = vec![];
     let mut total: i32 = perm;
     let mut current: i32;
 
@@ -121,16 +120,16 @@ pub fn generate_possibility(perm: i32, n: i32) -> Vec<i32> {
     }
 
     // Convert into jump path
-    for x in 0..n - 1 {
-        let i: usize = x as usize;
-        let jump = (n + (visits[i + 1] - visits[i])) % n;
+    // for x in 0..n - 1 {
+    //     let i: usize = x as usize;
+    //     let jump = (n + (visits[i + 1] - visits[i])) % n;
+    //
+    //     result.push(jump);
+    // }
+    // let jump = (n + (visits[0] - visits[n as usize - 1])) % n;
+    // result.push(jump);
 
-        result.push(jump);
-    }
-    let jump = (n + (visits[0] - visits[n as usize - 1])) % n;
-    result.push(jump);
-
-    result
+    return visits;
 }
 
 pub fn find_paths(n: i32) -> Vec<PolyPath> {
@@ -142,9 +141,10 @@ pub fn find_paths(n: i32) -> Vec<PolyPath> {
     for x in 0..perms {
         let possiblity = generate_possibility(x, n);
 
-        if is_reversal(&possiblity) {
-            continue;
-        }
+        // if is_reversal(&possiblity) {
+        //     continue;
+        // }
+
         let path = PolyPath::new_from_verts(&possiblity);
         found.insert(path);
     }

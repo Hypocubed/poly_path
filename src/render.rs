@@ -44,6 +44,14 @@ pub fn svg_shape_from_path(path: &PolyPath, x: i32, y: i32) -> String {
         .as_str(),
     );
 
+    // Print out the label.
+    let mut label: String = String::from("");
+    for jump in path.path.iter() {
+        label.push_str(&jump.to_string());
+    }
+
+    result.push_str(format!("<text x=\"{}\" y=\"{}\">{}</text>", x + 10, y + 15, label).as_str());
+
     // Print out the poly line.
     let mut current: i32 = 0;
     result.push_str("<polyline points=\"");
