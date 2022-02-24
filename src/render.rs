@@ -1,3 +1,4 @@
+use crate::paths::PolyPath;
 use num::complex::Complex;
 use std::f64::consts::TAU;
 
@@ -16,8 +17,8 @@ pub fn get_polygon_verticies(n: i32) -> Vec<Complex<f64>> {
     result
 }
 
-pub fn svg_shape_from_path(path: Vec<i32>, x: i32, y: i32) -> String {
-    let n: i32 = path.len() as i32;
+pub fn svg_shape_from_path(path: &PolyPath, x: i32, y: i32) -> String {
+    let n: i32 = path.size as i32;
 
     let verts: Vec<Complex<f64>> = get_polygon_verticies(n as i32);
     let mut points: Vec<Complex<i32>> = vec![];
@@ -47,7 +48,7 @@ pub fn svg_shape_from_path(path: Vec<i32>, x: i32, y: i32) -> String {
     let mut current: i32 = 0;
     result.push_str("<polyline points=\"");
     result.push_str(format!("{},{}", points[0].re, points[0].im).as_str());
-    for x in path.iter() {
+    for x in path.path.iter() {
         current = (current + x) % n;
 
         result.push_str(
@@ -84,7 +85,7 @@ pub fn svg_shape_from_path(path: Vec<i32>, x: i32, y: i32) -> String {
     result
 }
 
-pub fn svg_from_path(path: Vec<i32>) -> String {
+pub fn svg_from_path(path: &PolyPath) -> String {
     let mut result: String = String::from("");
 
     // Print the header
@@ -101,7 +102,7 @@ pub fn svg_from_path(path: Vec<i32>) -> String {
     result
 }
 
-pub fn svg_from_paths(paths: Vec<Vec<i32>>) -> String {
+pub fn svg_from_paths(paths: Vec<PolyPath>) -> String {
     let mut result: String = String::from("");
     let count: i32 = paths.len() as i32;
 
@@ -124,14 +125,14 @@ pub fn svg_from_paths(paths: Vec<Vec<i32>>) -> String {
 
     // Print out the paths.
     let mut count: i32 = 0;
-    let mut x: i32 = 0;
-    let mut y: i32 = 0;
+    let mut x: i32;
+    let mut y: i32;
 
     for path in paths.iter() {
         x = count % square;
         y = count / square;
 
-        let shape = svg_shape_from_path(path.to_vec(), 4 * x * SCALE, 4 * y * SCALE);
+        let shape = svg_shape_from_path(path, 4 * x * SCALE, 4 * y * SCALE);
         result.push_str(&shape);
         count = count + 1;
     }
