@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect fill="#999" stroke="#000" x="0" y="0" width="400" height="400"/><rect fill="#fff" stroke="#000" x="0" y="0" width="200" height="200"/><polyline points="100,50 150,100 100,150 50,100 100,50" stroke="black" stroke-width="3" fill="none" />
+<rect fill="#999" stroke="#000" x="0" y="0" width="400" height="400"/><rect fill="#fff" stroke="#000" x="0" y="0" width="200" height="200"/><text x="10" y="15">1111</text><polyline points="100,50 150,100 100,150 50,100 100,50" stroke="black" stroke-width="3" fill="none" />
 <circle cx="100" cy="50" r="5" fill="red" />
 <circle cx="150" cy="100" r="5" fill="red" />
 <circle cx="100" cy="150" r="5" fill="red" />
 <circle cx="50" cy="100" r="5" fill="red" />
 <circle cx="100" cy="50" r="3" fill="white" />
-<rect fill="#fff" stroke="#000" x="200" y="0" width="200" height="200"/><polyline points="300,50 350,100 250,100 300,150 300,50" stroke="black" stroke-width="3" fill="none" />
+<rect fill="#fff" stroke="#000" x="200" y="0" width="200" height="200"/><text x="210" y="15">1232</text><polyline points="300,50 350,100 250,100 300,150 300,50" stroke="black" stroke-width="3" fill="none" />
 <circle cx="300" cy="50" r="5" fill="red" />
 <circle cx="350" cy="100" r="5" fill="red" />
 <circle cx="300" cy="150" r="5" fill="red" />
