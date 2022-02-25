@@ -27,7 +27,7 @@ fn main() {
     );
 
     // Create an SVG file's text.
-    let text: String = render::svg_from_paths(paths);
+    let text: String = render::svg_from_paths(paths, n);
 
     let filename = format!("output{}.svg", n);
     let filepath = Path::new(&filename);
