@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect fill="#999" stroke="#000" x="0" y="0" width="400" height="400"/><rect fill="#fff" stroke="#000" x="0" y="0" width="200" height="200"/><text x="10" y="15">11111</text><polyline points="100,50 148,85 129,140 71,140 52,85 100,50" stroke="black" stroke-width="3" fill="none" />
-<circle cx="100" cy="50" r="5" fill="red" />
-<circle cx="148" cy="85" r="5" fill="red" />
-<circle cx="129" cy="140" r="5" fill="red" />
-<circle cx="71" cy="140" r="5" fill="red" />
-<circle cx="52" cy="85" r="5" fill="red" />
-<circle cx="100" cy="50" r="3" fill="white" />
-<rect fill="#fff" stroke="#000" x="200" y="0" width="200" height="200"/><text x="210" y="15">11242</text><polyline points="300,50 348,85 329,140 252,85 271,140 300,50" stroke="black" stroke-width="3" fill="none" />
-<circle cx="300" cy="50" r="5" fill="red" />
-<circle cx="348" cy="85" r="5" fill="red" />
-<circle cx="329" cy="140" r="5" fill="red" />
-<circle cx="271" cy="140" r="5" fill="red" />
-<circle cx="252" cy="85" r="5" fill="red" />
-<circle cx="300" cy="50" r="3" fill="white" />
-<rect fill="#fff" stroke="#000" x="0" y="200" width="200" height="200"/><text x="10" y="215">12133</text><polyline points="100,250 148,285 71,340 52,285 129,340 100,250" stroke="black" stroke-width="3" fill="none" />
-<circle cx="100" cy="250" r="5" fill="red" />
-<circle cx="148" cy="285" r="5" fill="red" />
-<circle cx="129" cy="340" r="5" fill="red" />
-<circle cx="71" cy="340" r="5" fill="red" />
-<circle cx="52" cy="285" r="5" fill="red" />
-<circle cx="100" cy="250" r="3" fill="white" />
-<rect fill="#fff" stroke="#000" x="200" y="200" width="200" height="200"/><text x="210" y="215">22222</text><polyline points="300,250 329,340 252,285 348,285 271,340 300,250" stroke="black" stroke-width="3" fill="none" />
-<circle cx="300" cy="250" r="5" fill="red" />
-<circle cx="348" cy="285" r="5" fill="red" />
-<circle cx="329" cy="340" r="5" fill="red" />
-<circle cx="271" cy="340" r="5" fill="red" />
-<circle cx="252" cy="285" r="5" fill="red" />
-<circle cx="300" cy="250" r="3" fill="white" />
+<svg width="401" height="401" viewBox="0 0 401 401" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<pattern id="grid" patternUnits="userSpaceOnUse" viewBox="0 0 200 200" width="200" height="200"><rect x=".5" y=".5" width="200" height="200" stroke="black" fill="white" /></pattern>
+<marker id="top-vert" viewBox="-5 -5 10 10" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10"><circle r="5" fill="red"/><circle r="3" fill="white"/></marker>
+<marker id="vert" viewBox="-5 -5 10 10" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10"><circle r="5" fill="red"/></marker>
+</defs>
+<rect x=".5" y=".5" width="400" height="400" stroke="black" fill="#999"/>
+<rect width="401" height="401" fill="url(#grid)"/>
+<text x="10" y="15">11111</text>
+<text x="210" y="15">11242</text>
+<text x="10" y="215">12133</text>
+<text x="210" y="215">22222</text>
+<g stroke="black" stroke-linejoin="bevel" stroke-width="3" fill="none" marker-start="url(#top-vert)" marker-mid="url(#vert)">
+<path d="M100,50L148,85L129,140L71,140L52,85Z"/>
+<path d="M300,50L348,85L329,140L252,85L271,140Z"/>
+<path d="M100,250L148,285L71,340L52,285L129,340Z"/>
+<path d="M300,250L329,340L252,285L348,285L271,340Z"/>
+</g>
 </svg>

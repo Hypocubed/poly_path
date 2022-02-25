@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect fill="#999" stroke="#000" x="0" y="0" width="400" height="400"/><rect fill="#fff" stroke="#000" x="0" y="0" width="200" height="200"/><text x="10" y="15">1111</text><polyline points="100,50 150,100 100,150 50,100 100,50" stroke="black" stroke-width="3" fill="none" />
-<circle cx="100" cy="50" r="5" fill="red" />
-<circle cx="150" cy="100" r="5" fill="red" />
-<circle cx="100" cy="150" r="5" fill="red" />
-<circle cx="50" cy="100" r="5" fill="red" />
-<circle cx="100" cy="50" r="3" fill="white" />
-<rect fill="#fff" stroke="#000" x="200" y="0" width="200" height="200"/><text x="210" y="15">1232</text><polyline points="300,50 350,100 250,100 300,150 300,50" stroke="black" stroke-width="3" fill="none" />
-<circle cx="300" cy="50" r="5" fill="red" />
-<circle cx="350" cy="100" r="5" fill="red" />
-<circle cx="300" cy="150" r="5" fill="red" />
-<circle cx="250" cy="100" r="5" fill="red" />
-<circle cx="300" cy="50" r="3" fill="white" />
+<svg width="401" height="401" viewBox="0 0 401 401" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<pattern id="grid" patternUnits="userSpaceOnUse" viewBox="0 0 200 200" width="200" height="200"><rect x=".5" y=".5" width="200" height="200" stroke="black" fill="white" /></pattern>
+<marker id="top-vert" viewBox="-5 -5 10 10" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10"><circle r="5" fill="red"/><circle r="3" fill="white"/></marker>
+<marker id="vert" viewBox="-5 -5 10 10" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10"><circle r="5" fill="red"/></marker>
+</defs>
+<rect x=".5" y=".5" width="400" height="400" stroke="black" fill="#999"/>
+<rect width="401" height="201" fill="url(#grid)"/>
+<text x="10" y="15">1111</text>
+<text x="210" y="15">1232</text>
+<g stroke="black" stroke-linejoin="bevel" stroke-width="3" fill="none" marker-start="url(#top-vert)" marker-mid="url(#vert)">
+<path d="M100,50L150,100L100,150L50,100Z"/>
+<path d="M300,50L350,100L250,100L300,150Z"/>
+</g>
 </svg>
